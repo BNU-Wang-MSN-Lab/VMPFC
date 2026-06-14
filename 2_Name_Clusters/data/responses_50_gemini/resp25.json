@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto paralimbic and cortico-brainstem architectures responsible for generating, perceiving, and regulating generalized emotional, nociceptive, and interoceptive states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms correspond to mesolimbic and ventromedial prefrontal circuitries engaged in computing subjective incentives, guiding motivated goal-directed behavior, and reinforcing choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge on the default mode network's transmodal macro-architecture, representing internally generated, stimulus-independent abstractions governing self-referential thought and interpersonal understanding."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms delineate the macro-functional domain of valence, physiological arousal, and homeostatic regulation that characteristically co-activate within the salience and deep limbic brain networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the computation of expected utility, incentive salience, and reinforcement mapping generally segregated within the macroscopic dopaminergic, orbitofrontal, and striatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts map reliably onto the default mode network's functional role in processing internally directed thought, establishing representations of the self, and inferring the internal states of other agents."
+        }
+    ]
+}

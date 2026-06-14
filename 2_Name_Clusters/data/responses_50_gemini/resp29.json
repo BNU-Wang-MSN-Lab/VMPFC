@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect core processes of emotional reactivity, physiological arousal, and subjective mood grounded in the macroscopic co-activation of salience and limbic systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms describe the computation of incentive salience, reward learning, and cost-benefit analysis mediated by the macroscopic striatal and ventromedial prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms represent internally directed representations of the self, others, and past experiences integrated via the macroscopic default mode network."
+        }
+    ]
+}

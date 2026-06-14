@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share robust co-activation across limbic and paralimbic cortical systems, representing the broad functional axis of generating, experiencing, and regulating emotional valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto frontostriatal and dopaminergic circuitries that collectively drive the macroscopic computation of expected utility, goal-directed motivation, and cost-benefit integration."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts consistently co-activate the core subsystems of the default mode network, reflecting a high-level functional domain dedicated to internally-directed processing of interpersonal and self-referential representations."
+        }
+    ]
+}

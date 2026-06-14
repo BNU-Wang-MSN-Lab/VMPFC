@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto the salience and subcortical limbic circuitries, representing the macroscopic domain of processing emotional valence, arousal, and mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored in the striatal and ventromedial prefrontal reward circuitries, this domain represents the macro-level computation of stimulus worth, reward anticipation, and goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms reflect the default mode network's role in internally generated, abstract representations of agents, encompassing both self-referential memory and the interpretation of others' minds."
+        }
+    ]
+}

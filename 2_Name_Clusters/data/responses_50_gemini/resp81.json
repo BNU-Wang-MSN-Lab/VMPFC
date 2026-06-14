@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto subcortical arousal and cortical salience networks, reflecting a broad functional axis encompassing emotional reactivity, homeostatic state processing, and valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Motivation",
+            "justification": "This cluster reflects the engagement of frontostriatal circuitry underlying subjective valuation, incentive salience, and goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts consistently co-activate within the large-scale default mode network, anchoring an overarching domain of internally constructed abstract representations regarding the self and others."
+        }
+    ]
+}

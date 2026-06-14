@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation within the limbic and salience networks, reflecting the broad functional domain of processing emotional valence, arousal, and mood state."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored in cortico-striatal and ventromedial prefrontal reward circuitry, this cluster represents the high-level functional axis of assigning subjective worth to stimuli to guide motivated goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Mapping consistently onto the transmodal default mode network, these terms represent the internally directed, abstract generation of self-referential narratives and the social conceptualization of other agents."
+        }
+    ]
+}

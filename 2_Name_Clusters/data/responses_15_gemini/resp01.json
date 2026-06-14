@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Supported by the amygdala, anterior insula, and broader limbic circuity, this domain captures the macroscopic generation, regulation, and processing of emotional valence, mood, and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Linked to striatal and ventromedial prefrontal neuroeconomical pathways, this domain unites the appraisal of salient stimuli, reward calculation, and the mapping of incentives to goal-directed behaviors."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Subserved structurally by the default mode network, this domain encompasses internally-directed abstract representations and referential processing regarding oneself, temporal personal history, and others."
+        }
+    ]
+}

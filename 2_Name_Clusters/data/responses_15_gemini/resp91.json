@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share underlying co-activation in the anterior insula, amygdala, and anterior cingulate cortex, representing the macro-level processing of valence, arousal, and emotional reactivity."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects activation in the ventral striatum, orbitofrontal cortex, and dopaminergic midbrain, unified by the broad computation of subjective value, incentive salience, and goal-directed selection."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms share robust co-activation within the default mode network, anchoring the macro-level capacity to generate abstract internal representations of self-identity, interpersonal dynamics, and social narratives."
+        }
+    ]
+}

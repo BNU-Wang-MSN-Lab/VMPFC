@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within corticolimbic and salience pathways that underlie the broad generation, physiological embodiment, and regulation of valenced emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts share macroscopic mapping onto frontostriatal and mesolimbic circuits responsible for calculating expected utility, incentive salience, and goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Mediated predominantly by the default mode network, this axis represents internally directed representations encompassing self-referential tracking, social processing, and the abstraction of internal states."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Represents the overarching processing of valenced states, mood, and emotional reactivity, aligning precisely with the large-scale allostatic and limbic functional systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Captures the macro-level computation of subjective utility, motivation, and goal-directed decision-making, predominantly subserved by mesolimbic and frontostriatal reward circuits."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Subjectivity",
+            "justification": "Encapsulates the internally directed cognitive architecture responsible for generating mental models of 'self' and 'other', uniting autobiographical projection and social cognition via the Default Mode Network."
+        }
+    ]
+}

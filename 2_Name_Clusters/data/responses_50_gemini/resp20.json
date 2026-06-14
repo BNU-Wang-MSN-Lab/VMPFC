@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation patterns within the extended limbic and autonomic networks, forming a broad functional axis centered on emotional reactivity, physiological arousal, and subjective valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Rooted in the co-activation of frontostriatal and mesolimbic circuitry, these terms describe a macroscopic cognitive domain dedicated to appraising subjective worth, incentive processing, and goal-directed decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored predominantly in the topography of the default mode network, these terms map onto an overarching functional axis responsible for internally directed simulation, encompassing both self-referential processing and the modeling of others."
+        }
+    ]
+}

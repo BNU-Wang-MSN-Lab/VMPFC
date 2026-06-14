@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms delineate the processing of valence, physiological arousal, and emotional regulation, mapping onto a unified latent axis of generalized autonomic and interoceptive responsiveness."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster represents the macroscopic cognitive axis of computing subjective worth, incentive salience, and reinforcement-based decision-making typically associated with mesolimbic reward pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts unite internally directed thought, interpersonal understanding, and self-projection, reflecting the higher-order social and referential axis functionally bound by cortical midline structures."
+        }
+    ]
+}

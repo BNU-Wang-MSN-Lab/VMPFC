@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms delineate limbic and visceromotor networks responsible for processing physiological arousal, valence, and broad emotional reactivity."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects striatal and ventromedial prefrontal circuitry dedicated to calculating subjective value, reinforcing motivated behavior, and guiding cost-benefit decisions."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms co-activate within the default mode network, which acts as a transmodal hub for internally directed representations of the self and the socio-emotional states of others."
+        }
+    ]
+}

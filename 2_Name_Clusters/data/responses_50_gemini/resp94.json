@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within the salience and extended limbic systems, reflecting a broad macroscopic domain dedicated to processing emotional valence, physiological arousal, and overarching mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto mesolimbic and corticostriatal pathways responsible for computing subjective value, updating reinforcement contingencies, and guiding motivated decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Mapping primarily onto the default mode cortical topology, this axis represents the internally directed processing of representations regarding the self and others, integrating autobiographical memory with overarching social processing."
+        }
+    ]
+}

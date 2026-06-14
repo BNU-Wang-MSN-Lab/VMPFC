@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within the salience and limbic brain systems, representing the macroscopic functional domain of processing emotional valence, mood states, and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps deeply onto mesolimbic and ventromedial prefrontal circuitry, reflecting the overarching cognitive axis of reward processing, incentive motivation, and goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Supported by the default mode network, this domain captures internally directed representational processes required to model one's own autobiographical identity as well as the subjective mental states of others."
+        }
+    ]
+}

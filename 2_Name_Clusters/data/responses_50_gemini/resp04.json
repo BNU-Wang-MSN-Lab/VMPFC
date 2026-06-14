@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation in cortical-subcortical pathways (e.g., amygdala, anterior insula, anterior cingulate) dedicated to physiological arousal, emotion regulation, and processing valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto frontostriatal and dopaminergic circuitry involved in computing expected utility, processing reinforcement contingencies, and driving motivated decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms aggregate within cortical midline structures and the temporoparietal junction, representing a shared functional axis for internally generated simulations regarding the self, others, and social narratives."
+        }
+    ]
+}

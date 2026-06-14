@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation in cortico-limbic circuitry responsible for evaluating the valence of stimuli, experiencing feelings, and regulating internal physiological states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts map onto frontostriatal and mesolimbic networks dedicated to computing expected subjective utility, processing incentives, and guiding goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms co-activate within the default mode network, which supports internally-directed thought, self-referential processing, and modeling the abstract subjective states of oneself and others."
+        }
+    ]
+}

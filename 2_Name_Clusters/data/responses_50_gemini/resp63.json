@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto predictable salience and limbic network co-activations, representing the overarching macroscopic domain of emotional processing, autonomic arousal, and subjective feeling states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts reliably co-activate within frontostriatal and dopaminergic reward circuits, driving the high-level computation of incentive, reinforcement, and goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms strongly co-activate across core nodes of the default mode network, reflecting the unified macro-level cognitive domain of processing internally constructed representations of oneself and others."
+        }
+    ]
+}

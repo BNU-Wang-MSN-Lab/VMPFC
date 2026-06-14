@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms broadly map to salience and medial temporal circuitry responsible for the overarching generation, processing, and experiencing of emotional valences and mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects striato-cortical computations underlying reward appraisal, cost-benefit analysis, and motivation-driven decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored by default mode network activity, this axis represents the higher-order processing of internally generated constructs regarding selfhood, social agents, and interpersonal narratives."
+        }
+    ]
+}

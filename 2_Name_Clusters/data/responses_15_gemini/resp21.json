@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto limbic and salience network co-activations, representing the broad functional axis responsible for processing arousal, emotional salience, and valenced physiological states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms co-activate within the striato-cortical circuitry, representing the macroscopic domain of computing subjective utility, incentive salience, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored primarily in the Default Mode Network, these terms represent the latent, high-level, internally-directed axis of processing self-other representations and internal models of social agents."
+        }
+    ]
+}

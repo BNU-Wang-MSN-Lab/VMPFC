@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster encapsulates the generation, somatic experience, and regulation of emotional states and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms reflect the computation of subjective value, motivational incentive, and reinforcement contingencies used to guide goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Social",
+            "justification": "This domain encompasses internally-directed representational processes spanning self-perception and interpersonal cognition, bridging autobiographical schemas with empathy and theory of mind."
+        }
+    ]
+}

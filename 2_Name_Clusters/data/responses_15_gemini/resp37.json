@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto limbic and anterior insula-cingulate co-activations, representing the broad functional domain of processing emotional valence, arousal, and mood."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Rooted in fronto-striatal and orbitofrontal circuitry, these terms reflect the overarching computation of subjective value to guide motivated behavior and goal-directed choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms reliably co-activate within the Default Mode Network, reflecting the generation of internal abstract representations concerning the self, other agents, and interpersonal narratives."
+        }
+    ]
+}

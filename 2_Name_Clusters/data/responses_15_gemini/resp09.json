@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reliably co-activate across anterior insular, anterior cingulate, and amygdalar circuitry, underlying the macroscopic processing of generalized valence, arousal, and emotional reactivity."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Mapped fundamentally onto ventral frontostriatal and dopaminergic circuitry, this functional axis represents the macro-level computation of utility, reinforcement, and goal-directed action formulation."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Engaging the cortical midline and temporoparietal subsystems, these terms coalesce around the high-level capacity to construct internal representations regarding one's own identity, experiences, and the intentions of other agents."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster maps onto sympathetic, insular, and amygdalar co-activations, representing the broad functional axis of processing internal physiological states, arousal, and emotional valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Reflecting co-activations across the striatum and ventromedial prefrontal cortex, this axis binds processes involved in computing incentive salience, reward outcomes, and goal-directed decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored in the default mode network's cortical midline and temporoparietal structures, this domain represents the macroscopic capacity to construct and process internally generated representations regarding the self and others."
+        }
+    ]
+}

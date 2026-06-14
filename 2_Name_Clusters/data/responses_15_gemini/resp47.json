@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms collectively describe the macroscopic functional axis of emotional reactivity, valence processing, and mood state regulation inherently mapped to the amygdala and anterior insula."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster captures the subjective computation of utility and goal-directed incentive processing supported heavily by frontostriatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts rely on transmodal cortical hierarchies to support internally directed, abstract representations of oneself and others across time."
+        }
+    ]
+}

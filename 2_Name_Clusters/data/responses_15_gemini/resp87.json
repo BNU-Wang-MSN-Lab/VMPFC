@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share convergent co-activation within the amygdala, anterior insula, and anterior cingulate cortices, representing the high-level macroscopic domain of emotional processing and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the broad computations of subjective utility, reinforcement, and goal-directed behavior mapped robustly onto corticostriatal and ventromedial prefrontal pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts drive highly reliable co-activation within the medial prefrontal, precuneal, and temporoparietal cortical hubs, binding self-referential internal mentation with social-inferential processing."
+        }
+    ]
+}

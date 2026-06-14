@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation within fronto-insular and subcortical pathways, forming a broad functional axis dedicated to processing emotional valence, arousal, and overarching mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored in ventromedial prefrontal and dopaminergic midbrain circuitry, this functional domain underlies the computation of subjective utility to guide motivated behavior and goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Emerging from the co-activation of medial prefrontal and temporoparietal cortical regions, this axis integrates temporally extended self-narratives with complex conceptual representations of human agents and intentionality."
+        }
+    ]
+}

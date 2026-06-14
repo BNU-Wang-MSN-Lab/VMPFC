@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms consistently co-activate within cortical-subcortical circuitry, representing the overarching macro-domain of generating, experiencing, and regulating subjective emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms share neuroimaging activation patterns in the mesocorticolimbic pathways, reflecting the broad functional axis of assessing stimulus worth to drive motivated behavior and choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms are hallmark expressions of the default mode network's role in internally directed mentation, specifically representing the macro-function of modeling the self and the minds of others."
+        }
+    ]
+}

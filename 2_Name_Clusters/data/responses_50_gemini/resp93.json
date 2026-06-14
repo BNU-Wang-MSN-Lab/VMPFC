@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation across the anterior insula, amygdala, and dorsal anterior cingulate cortex, representing a superordinate axis of emotional valence, arousal, and autonomic regulation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Mapping closely onto frontostriatal and ventromedial prefrontal circuitry, this cluster represents the computation of subjective utility, reward prediction, and goal-directed motivated behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored predominately in the medial prefrontal cortex and temporoparietal junction, this cluster encapsulates internally generated representations of conspecifics and the self."
+        }
+    ]
+}

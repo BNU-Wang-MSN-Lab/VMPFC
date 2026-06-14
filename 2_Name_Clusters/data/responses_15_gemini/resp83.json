@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the macro-level processing of emotional valence and physiological arousal driven by the coordinated activity of large-scale limbic and salience networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the high-level computation of subjective utility, reward expectation, and motivated action selection characteristic of frontostriatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Encompasses the internally directed modeling of self, others, and interpersonal narratives intrinsically linked to the default mode network's functional topology."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms broadly co-activate within the extended amygdala-insular-cingulate circuitry, representing the overarching macro-domain of processing, experiencing, and regulating valenced physiological states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms reliably co-activate mesolimbic, striatal, and orbitofrontal circuitry, reflecting the high-level computation of subjective utility and incentive salience to guide goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms functionally converge on the medial prefrontal and temporoparietal nodes of transmodal cortex, subserving the integrated macro-domain of self-referential and interpersonal representation."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms encompass the broad functional axis of emotional reactivity, mood state, and valence processing intrinsically linked by shared cortico-amygdalar and anterior insula co-activation patterns."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This reflects the overarching macro-domain of appraising stimulus utility, calculating cost-benefit parameters, and driving goal-directed behavior, fundamentally subserved by mesolimbic and frontostriatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts rely on abstract, internally constructed mental models of narratives, identity, and agents, perfectly overlapping with the macroscopic functional topography of the medial fronto-parietal architecture."
+        }
+    ]
+}

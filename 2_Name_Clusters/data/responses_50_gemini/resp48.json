@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the macroscopic processing of somatic states, emotional valence, and homeostatic arousal typically subserved by the anterior insula, cingulate, and broader limbic-salience networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto the cortico-striatal and orbitofrontal brain circuitries responsible for reward anticipation, motivation, and the computation of subjective value during goal-directed decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster captures the self-other functional axis mediated by the Default Mode Network, integrating internally directed self-referential representations with interpersonal evaluation and empathy."
+        }
+    ]
+}

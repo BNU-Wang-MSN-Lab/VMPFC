@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect common co-activation in cortico-amygdalar and anterior insular networks responsible for processing valence, arousal, and homeostatic emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms converge on striato-cortical and ventromedial prefrontal circuitry, subserving the macroscopic computation of expected utility, incentive salience, and goal-directed behavioral drives."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms universally engage the medial prefrontal and temporoparietal nodes of default mode architecture to mediate internally generated, associative models of the self, social agents, and temporal narratives."
+        }
+    ]
+}

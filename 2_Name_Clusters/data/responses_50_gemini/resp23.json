@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain captures the macro-level processing of emotional reactivity, autonomic arousal, and mood states that fundamentally co-activate across salience and limbic brain systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain encompasses the computation of incentive salience, reward processing, and motivated decision-making primarily mediated by mesocorticolimbic and striatal circuitries."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This overarching domain conceptualizes the generation of internal mental representations pertaining to both the self and others, mapping closely onto the macroscopic architecture of the default mode network."
+        }
+    ]
+}

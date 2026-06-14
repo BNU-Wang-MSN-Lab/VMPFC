@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto macroscopic co-activations in the anterior insula, amygdala, and subgenual cingulate that govern the processing of emotional valence, mood states, and threat detection."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts share neuro-functional co-activation in frontostriatal and ventromedial prefrontal circuitries, representing the macro-level computation of subjective value to drive goal-directed choice and behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Bound by their engagement of the Default Mode Network, these terms reflect the macroscopic functional axis of processing internally constructed mental models regarding oneself, personal history, and other agents."
+        }
+    ]
+}

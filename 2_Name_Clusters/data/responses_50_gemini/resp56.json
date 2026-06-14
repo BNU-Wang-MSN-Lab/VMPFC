@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses broad macroscopic interoceptive and emotional processes, representing the coordinated activity of salience and limbic networks underlying valence, arousal, and systemic responses to stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms share co-activation within distributed striatal and ventromedial prefrontal circuitries, representing a macro-level system for computing subjective value, incentive salience, and reinforcement-based choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain reflects the high-level functional specialization of the default mode network for internally directed, associative conceptual processing that bridges self-referential thought with the perception and understanding of others."
+        }
+    ]
+}

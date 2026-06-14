@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain captures the integration of valence, arousal, and autonomic processing that typically maps onto co-activations within macro-scale limbic and salience-related systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms represent the goal-directed computation of utility, reinforcement, and incentive characteristics subserved by large-scale striatal and ventromedial prefrontal network co-activations."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain bridges self-referential processing with the representation of other agents, representing the core functional neuro-ontology of the default mode network."
+        }
+    ]
+}

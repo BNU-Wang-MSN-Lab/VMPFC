@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms align along a macroscopic functional axis rooted in amygdalo-cortical and insular pathways dedicated to the generation, experience, and regulation of valenced internal states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts share co-activation across striatal and orbitofrontal neural circuitry, representing a broad domain responsible for computing expected outcomes, incentive salience, and goal-directed action."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster maps robustly onto the cortical midline structures of the default mode network, reflecting a generalized, internally-directed system for representing temporal narratives, agents, and self-constructs."
+        }
+    ]
+}

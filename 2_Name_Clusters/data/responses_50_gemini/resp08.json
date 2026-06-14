@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses the processing of emotional valence, physiological arousal, and mood states, reflecting the integrated function of the limbic-anterior insula-autonomic axis."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain represents the subjective assessment of outcomes, encompassing reward reinforcement, incentive salience, and goal-directed choice behavior driven by striatal-ventromedial prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain captures internally directed representations of agents, seamlessly binding self-referential thought, autobiographical experience, and interpersonal mental state attribution typically subserved by the macroscopic default mode network."
+        }
+    ]
+}

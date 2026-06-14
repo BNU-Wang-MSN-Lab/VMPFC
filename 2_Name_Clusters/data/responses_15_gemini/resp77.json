@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the generation, processing, and experiencing of valenced states and mood, typically mapping onto the overarching salience and limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms delineate the computation of expected utility, incentive processing, and goal-directed choice, primarily subserved by mesolimbic and frontostriatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses internally directed, self-referential, and interpersonal conceptualizations of mind, which robustly and consistently co-activate within the default mode network."
+        }
+    ]
+}

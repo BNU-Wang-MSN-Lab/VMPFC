@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses the processing of emotional states, physiological arousal, and autonomic regulation, which are heavily anchored in the co-activation patterns of the brain's salience and limbic systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the continuous assessment of incentives, outcomes, and subjective worth used to guide purposeful decision-making, systematically mapping onto frontostriatal reward circuits."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain reflects the higher-order representation of agents, seamlessly binding self-referential thought, autobiographical memory, and the understanding of others through the coordinated activity of the default mode network."
+        }
+    ]
+}

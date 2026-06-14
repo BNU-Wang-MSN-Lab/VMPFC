@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation within salience and emotion-processing networks to support the macro-level generation, representation, and regulation of subjective feeling states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto frontostriatal and ventromedial prefrontal systems that compute stimulus worth, encode incentives, and guide goal-directed action selection."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally on the default mode network to subserve internally directed representations concerning personal identity, memory, and the attribution of mental states to others."
+        }
+    ]
+}

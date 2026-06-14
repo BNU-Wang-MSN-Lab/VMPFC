@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto cortico-subcortical circuitry, including the amygdala and anterior insula, dedicated to processing valenced arousal and regulating generalized emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts share co-activation profiles across cortico-striatal pathways involved in computing subjective worth, processing incentives, and driving goal-directed behavioral selection."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster reflects the overarching cognitive architecture supported by the default mode network to internally model representations of the self, personal narratives, and the minds of others."
+        }
+    ]
+}

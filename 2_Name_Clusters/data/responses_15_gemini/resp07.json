@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms coalesce around the subjective experience, generation, and regulation of emotional valence and physiological arousal, typically defining the functional axis of anterior insula, cingulate, and broader limbic/salience network co-activations."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the overarching macro-cognitive processes of utility assignment, cost-benefit computation, and goal-directed choice, which are robustly mediated by mesolimbic and corticostriatal valuation circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Mapping consistently onto the Default Mode Network, this domain governs internally directed, stimulus-independent processing dedicated to constructing narrative representations of self-identity, episodic memory, and the complex interpersonal models of others."
+        }
+    ]
+}

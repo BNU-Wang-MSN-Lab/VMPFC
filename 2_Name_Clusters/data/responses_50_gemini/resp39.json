@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within salience and corticolimbic networks, representing the macro-level processing, autonomic physiological expression, and regulation of emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster is unified by the frontostriatal and mesolimbic networks, reflecting the broad functional domain of incentive processing, behavioral reinforcement, and economic decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms are bound by their shared recruitment of the default mode network, representing internally directed, self-generated processing used to abstractly model the subjective mental states of oneself and others."
+        }
+    ]
+}

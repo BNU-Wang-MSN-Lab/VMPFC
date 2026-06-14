@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms consistently map onto core limbic and salience co-activation patterns, representing the broad overarching domain of emotional valence, arousal, and mood state regulation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Rooted in striatal and ventromedial prefrontal circuitry, these terms collectively describe the high-level computation of subjective worth, cost-benefit tradeoff, and goal-directed motivation."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Co-activating within the default mode network, these terms reflect the macro-functional axis of generating internal, abstract representations regarding oneself, interpersonal relationships, and agency."
+        }
+    ]
+}

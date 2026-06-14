@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation profiles across cortico-limbic structures underlying the overarching computation of internal feeling states and emotional valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto dopamine-rich frontostriatal and ventromedial prefrontal circuits dedicated to computing subjective utility, incentive salience, and goal-directed motivation."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts co-activate within cortical midline and default mode structures, representing a unified domain for processing internally generated models of oneself and other conscious agents."
+        }
+    ]
+}

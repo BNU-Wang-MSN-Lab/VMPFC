@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain reflects the generalized processing of emotional valences and interoceptive states, anchored in limbic and salience macro-networks for detecting and responding to biologically relevant stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain encapsulates the subjective computation of utility and goal-directed motivation, driven primarily by mesolimbic and cortico-striatal reward circuitry during decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses internally directed, self-referential, and interpersonal capacities, operating within the default mode network to support complex mental representations of personal history and others' minds."
+        }
+    ]
+}

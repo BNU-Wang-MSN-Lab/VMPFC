@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses broad affective processing, including emotional valence, autonomic physiological arousal, and aversive learning, primarily supported by amygdalo-cortical and distributed salience systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the computational processes of subjective value assignment, cost-benefit tradeoff, and reinforcement-based motivation mediated by frontostriatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain reflects the macroscopic convergence of self-referential processing, autobiographical memory, and the modeling of other agents' minds, heavily anchored by the default mode network."
+        }
+    ]
+}

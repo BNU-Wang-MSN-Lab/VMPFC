@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation within salience, limbic, and autonomic networks dedicated to processing emotional valence, systemic arousal, and physiological threat responses."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto mesolimbic and frontostriatal circuitry responsible for computing incentive salience, reward prediction errors, and goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally across cortical midline structures and the default mode system, which underpin internally constructed models of the self, others, and social inference."
+        }
+    ]
+}

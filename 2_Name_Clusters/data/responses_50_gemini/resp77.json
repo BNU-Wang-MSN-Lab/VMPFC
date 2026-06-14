@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation within the salience and limbic systems, reflecting the high-level functional axis of generating, processing, and regulating physiological arousal and emotional valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Mapping heavily onto the mesolimbic and ventromedial prefrontal circuitry, these terms represent the overarching cognitive domain of computing subjective value, anticipating reward, and driving goal-directed decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Driven by co-activation within the default mode network, this cluster captures the macroscopic domain of producing abstract representations of agents, seamlessly binding self-referential memory with the processing of others' minds and social cues."
+        }
+    ]
+}

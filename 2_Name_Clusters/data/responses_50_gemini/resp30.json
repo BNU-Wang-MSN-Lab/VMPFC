@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster represents the broad functional axis responsible for processing physiological arousal, emotional valence, and behavioral responses to internal or external stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms are bound by a macroscopic cognitive axis dedicated to subjective value computation, reinforcement learning, and goal-directed motivation."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This axis represents the unified processing of internally directed thought, autobiographical mapping, and the cognitive representation of oneself and other interpersonal agents."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses the broad generation, experience, and regulation of subjective mood and emotional states typically subserved by cortico-subcortical limbic and salience loops."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the neuroeconomic and motivational processes of computing the subjective worth of stimuli to drive goal-directed choice and decision-making within dopaminergic reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This overarching domain encapsulates the internally-directed perspective shifts required to construct complex representations of the self, personal narrative time, and the minds of others, canonically mapping onto the default mode network."
+        }
+    ]
+}

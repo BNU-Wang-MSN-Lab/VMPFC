@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within anterior insula, anterior cingulate, and amygdala pathways, reflecting a macro-level functional axis driving general physiological arousal, valence, and emotional processing."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto ventral striatal and ventromedial prefrontal circuitries, representing the overarching cognitive computation of motivational drive, stimulus appraisal, and goal-directed behavioral selection."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored in the default mode network, this axis binds together internally directed processing, integrating autobiographical memory with the complex representation of the self and conspecifics."
+        }
+    ]
+}

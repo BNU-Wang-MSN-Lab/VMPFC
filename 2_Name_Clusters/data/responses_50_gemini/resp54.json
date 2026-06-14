@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms cluster together as they all involve the processing of emotionally salient stimuli, subjective mood states, and autonomic arousal, mapping onto the macroscopic salience and limbic neural networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain unifies the computation of reward, incentive, and cost-benefit analysis used to guide goal-directed behavior, fundamentally anchored in fronto-striatal dopaminergic circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms share an underlying reliance on the default mode network to support internally directed, abstract projection required for modeling the self, processing autobiographical memories, and inferring the mental states of others."
+        }
+    ]
+}

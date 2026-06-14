@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Reflects large-scale salience and limbic network computations that evaluate stimulus valence, orchestrate autonomic arousal, and regulate broad mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Captures the mesolimbic and striato-cortical network computations responsible for assigning utility, predicting reinforcement, and driving goal-directed choice behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Represents the Default Mode Network's core computation of internally directed thought, relying on abstract representations of agents across time to navigate personal history and interpersonal relationships."
+        }
+    ]
+}

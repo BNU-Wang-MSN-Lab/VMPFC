@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto widespread limbic and salience network co-activations, reflecting the overarching macroscopic domain of emotional appraisal, mood regulation, and valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored by shared co-activations in frontostriatal and ventromedial prefrontal pathways, these terms converge on the macro-level computation of subjective worth to drive goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Tethered to the Default Mode Network (e.g., mPFC, PCC, TPJ), these terms represent the internally-directed, generative modeling of subjective identities, interpersonal dynamics, and self-other representations."
+        }
+    ]
+}

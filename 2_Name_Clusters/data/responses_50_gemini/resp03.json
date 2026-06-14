@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect the functional outputs of the salience and somatomotor-limbic circuitry driving emotional reactivity, interoception, and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto mesolimbic-cortical pathways responsible for computing utility, reinforcement learning, and guiding motivated decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts coalesce around default mode network activity, underlying the generation of internal representations required for interpersonal navigation and self-referential thought."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto macroscopic salience and limbic networks, which orchestrate broad physiological arousal, emotional valence, and autonomic reactivity to salient stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects cortico-striatal and mesolimbic circuitry underlying the calculation of expected outcomes, incentive-based motivation, and goal-directed economic behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts share co-activation within the Default Mode Network, which supports internally constructed, abstract representations of the self, personal narratives, and other social agents."
+        }
+    ]
+}

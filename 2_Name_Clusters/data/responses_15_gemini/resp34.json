@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto subcortical and paralimbic co-activation patterns, such as the amygdala and anterior insula, which broadly mediate emotional reactivity, valence, and mood."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts share robust frontostriatal and orbitofrontal co-activations dedicated to computing expected utility, processing primary reinforcers, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge on the midline structural hubs of the brain's internally-directed processing systems, which support abstract, constructed representations of self, others, and interpersonal narratives."
+        }
+    ]
+}

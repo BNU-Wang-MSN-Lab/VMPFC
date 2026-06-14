@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within cortical-subcortical affective circuits, primarily involving the amygdala and anterior insula, which mediate the internal generation, processing, and regulation of emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Bound by the mesolimbic dopamine system, ventral striatum, and orbitofrontal cortex, these terms reflect the macroscopic system dedicated to computing subjective reward, reinforcing motivation, and guiding goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Grounded in the functional topography of the Default Mode Network, these terms represent a unified axis of internally directed processing used to construct abstract mental models of the self, others, and social narratives."
+        }
+    ]
+}

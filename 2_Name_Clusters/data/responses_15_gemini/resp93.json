@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This dimension reflects the processing of somatovisceral states, emotional valence, and mood regulation, typically mapping onto anterior salience and paralimbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms delineate the computation of expected outcomes, incentive processing, and goal-directed behavioral selection intrinsically mediated by frontostriatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses internally directed, abstract representations of oneself and other social agents across time, characteristically unified by co-activation within the default mode system."
+        }
+    ]
+}

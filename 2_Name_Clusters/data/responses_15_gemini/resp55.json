@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect the overarching evaluation and autonomic processing of emotional valence and arousal, sharing co-activation across macroscopic limbic and salience neurocircuitry."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Grounded in frontostriatal and dopaminergic reward architectures, this functional axis computes incentive salience and integrates subjective preferences to drive motivated, goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Supported by the default mode network, this domain encapsulates the internally directed processing required to construct abstract meta-representations of identities, social inferences, and personal narratives."
+        }
+    ]
+}

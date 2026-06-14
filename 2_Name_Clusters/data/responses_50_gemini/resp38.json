@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto underlying limbic and salience network architectures responsible for processing emotional valence, somatic arousal, and homeostatic reactivity to stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms converge on cortico-striatal circuits that compute incentive salience, process reward reinforcement, and guide motivation-driven decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms represent a latent cognitive axis anchored in default mode network functioning, which mediates internally generated representations of the self, episodic memory, and the conceptual understanding of other agents."
+        }
+    ]
+}

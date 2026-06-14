@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate across anterior insulo-cingulate and amygdalar pathways, representing a macro-level functional domain dedicated to the generation, processing, and regulation of emotional states and valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto frontostriatal and ventromedial prefrontal circuitry, bound together by the underlying computational axis of determining cost, predicting rewards, and translating subjective worth into goal-directed choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms robustly co-activate within the default mode network, united by a reliance on internally directed, abstract mental representations that construct both distinct personal identity and models of others' minds."
+        }
+    ]
+}

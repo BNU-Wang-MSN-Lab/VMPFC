@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation patterns across salience and limbic structures (such as the amygdala and anterior insula), reflecting the broad macroscopic axis of processing valenced states, emotional reactivity, and mood."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored by co-activation within the ventral striatum and ventromedial prefrontal cortex, these concepts converge on the high-level domain of computing stimulus worth to guide choices and motivated behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms strongly co-activate within the core default mode network (e.g., medial prefrontal cortex, precuneus, TPJ), representing the broad functional domain of generating internally directed representations of oneself and other abstract agents."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation profiles across paralimbic and salience circuitry dedicated to the generation, representation, and physiological arousal of positively and negatively valenced states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts map onto mesolimbic and orbitofrontal circuitry responsible for computing subjective utility, processing incentives, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms consistently co-activate within the default mode core, subserving internally-directed attention required for abstract self-referential processing and interpreting the mental states of others."
+        }
+    ]
+}

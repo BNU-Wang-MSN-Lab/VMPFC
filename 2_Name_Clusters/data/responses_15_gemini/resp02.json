@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms consistently co-activate across the broad limbic and salience systems to support the generation, regulation, and clinical disruption of emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the computation of subjective utility within striatal and ventromedial prefrontal circuitry to guide motivated behavior, reward anticipation, and goal-directed choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts map onto the convergence zones of the default mode network, which facilitates internally constructed representations regarding the self, autobiographical context, and other social agents."
+        }
+    ]
+}

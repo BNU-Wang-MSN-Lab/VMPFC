@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate across socio-emotional and autonomic regulatory pathways to broadly process emotional valence, physiological arousal, and subjective feeling states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto mesocorticolimbic circuitry dedicated to calculating expected utility, reinforcement learning, and guiding goal-directed incentive behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms reflect core default-mode functional operations involved in internally constructed representations, uniting self-referential processing with interpersonal and mental state inferences."
+        }
+    ]
+}

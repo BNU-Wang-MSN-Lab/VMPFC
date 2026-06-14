@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These concepts reliably co-activate within limbic and paralimbic networks responsible for processing generalized emotional salience, arousal, and mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms reflect the computation of utility and goal-directed drive, sharing robust neuroimaging co-activation across mesolimbic dopamine pathways and the ventromedial prefrontal cortex."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Covering both internal self-referential thought and interpersonal projections like theory of mind, these concepts consistently evoke the cortical midline and temporoparietal topography of the default mode network."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto the salience and autonomic-limbic cortices, representing the overarching processing of emotional valence, physiological arousal, and interoceptive threat."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchoring to the mesolimbic-striatal dopamine system and ventromedial prefrontal cortex, this domain encompasses reward processing, incentive salience, and cost-benefit decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Mapping largely to the default mode network, these terms reflect the internally-directed cognitive architectures required for constructing self-referential narratives, theory of mind, and interpersonal representations."
+        }
+    ]
+}

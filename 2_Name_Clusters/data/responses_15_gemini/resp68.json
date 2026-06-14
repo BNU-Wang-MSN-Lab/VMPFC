@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation in macroscopic limbic and salience networks, reflecting the broad functional axis of processing emotional valence, systemic arousal, and mood state."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Mapped onto striatal and ventromedial prefrontal reward circuitry, these concepts represent the overarching functional domain of computing subjective value to drive goal-directed behavior and behavioral selection."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Referential",
+            "justification": "United by the default mode network, these terms reflect internally directed, abstract referential processing that spans both self-referential (autobiographical) and other-referential (social) cognition."
+        }
+    ]
+}

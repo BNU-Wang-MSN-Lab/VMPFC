@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation across insulo-amygdalar and visceromotor circuits associated with the generation, processing, and regulation of valenced physiological states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts manifest shared functional recruitment within frontostriatal and mesocortical pathways dedicated to computing subjective utility, incentive salience, and goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These functions predominantly rely on cortical midline and temporoparietal subsystems to construct abstract, internally generated models of the self, conspecifics, and interpersonal narratives."
+        }
+    ]
+}

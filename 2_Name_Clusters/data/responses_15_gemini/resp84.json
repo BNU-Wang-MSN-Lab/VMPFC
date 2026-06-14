@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reliably co-activate within cortico-limbic circuitry, representing the broad macroscopic domain of generating, experiencing, and regulating valenced physiological and emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts map onto mesolimbic and striato-cortical pathways, anchoring the overarching functional domain of incentive processing, cost-benefit calculation, and goal-directed behavioral output."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored primarily by default mode network activity, these terms converge on internally directed, constructive mental representations required for modeling the self, others, and enduring interpersonal narratives."
+        }
+    ]
+}

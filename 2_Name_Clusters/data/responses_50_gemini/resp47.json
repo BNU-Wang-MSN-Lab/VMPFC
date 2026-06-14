@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Represents the macro-level processing of emotional valence, physiological arousal, and threat detection, typically subserved by salience and extended limbic functional configurations."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Reflects the computation of subjective worth, incentive salience, and outcome-based choice behavior, fundamentally relying on frontostriatal and reward circuit co-activations."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Captures internally directed representations of agents, encompassing self-referential narratives, interpersonal mapping, and social understanding structuralized by default mode network activity."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share robust co-activation patterns within corticolimbic and salience circuitry (e.g., insula, amygdala, anterior cingulate), representing the overarching domain of emotional reactivity, valence, and autonomic regulation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps fundamentally onto mesolimbic and ventromedial prefrontal pathways, capturing the macro-level domain of incentive computation, reward-based learning, and value-driven choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Converging within the Default Mode Network (e.g., mPFC, TPJ, precuneus), this domain represents the functional integration of internally directed self-referential thought and the projective representations of other minds and social contexts."
+        }
+    ]
+}

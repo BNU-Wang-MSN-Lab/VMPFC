@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster represents the broad functional axis of emotional reactivity, physiological arousal, and subjective mood states typically subserved by limbic and salience-processing neural circuitry."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster captures the overarching cognitive domain of incentive processing, cost-benefit analysis, and goal-directed drive intrinsically supported by frontostriatal reward circuits."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster delineates internally-directed abstract processing, binding self-referential representation with interpersonal understanding, which robustly maps onto default mode macro-architecture."
+        }
+    ]
+}

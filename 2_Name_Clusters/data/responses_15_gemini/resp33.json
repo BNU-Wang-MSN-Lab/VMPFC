@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses the processing of emotional valence, generalized arousal, and mood regulation, which are heavily subserved by the large-scale salience and limbic cortical-subcortical architectures."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain represents the computation of subjective utility, motivational drive, and cost-benefit outcome processing reliably linked to the concerted co-activation of striatal and ventromedial prefrontal reward networks."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain unites the internally-directed abstraction of self-identity, narrative memory, and the modeling of other agents' minds, directly mapping onto the functional topology of the default mode network."
+        }
+    ]
+}

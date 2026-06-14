@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto a shared functional axis of emotional processing, valence generation, and mood regulation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the macroscopic functional dimension of computing subjective worth, driving goal-directed behavior, and processing reward outcomes."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts share an underlying representational architecture dedicated to modeling internal states, bridging self-referential narrative processing with the conceptualization of other agents."
+        }
+    ]
+}

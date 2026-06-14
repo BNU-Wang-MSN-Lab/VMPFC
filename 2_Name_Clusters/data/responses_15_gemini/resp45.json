@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms converge on cortico-subcortical affective circuits, including the amygdala and anterior insula, which orchestrate physiological and emotional responses to valenced states and stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts share robust co-activation patterns within frontostriatal and ventromedial prefrontal pathways that compute subjective significance to guide motivated, goal-directed behavior and behavioral choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms systematically map onto networks supporting internally directed, stimulus-independent thought involved in self-projection, autobiographical anchoring, and the modeling of social agents."
+        }
+    ]
+}

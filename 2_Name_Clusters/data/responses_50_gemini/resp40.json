@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation profiles within the salience and somato-visceral systems, representing the generalized processing of emotional valence, physiological arousal, and interoceptive states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts converge on cortico-striatal and dopaminergic circuitry responsible for computing incentive salience, processing outcomes, and guiding goal-directed choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms rely on the default mode network to mediate internally directed representations, bridging self-referential processing with the inference of others' mental states."
+        }
+    ]
+}

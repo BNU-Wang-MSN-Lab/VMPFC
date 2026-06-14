@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate largely within insular, amygdalar, and anterior cingulate networks, representing the broad functional axis of emotional reactivity, physiological arousal, and subjective feeling states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored by striatal, orbitofrontal, and ventromedial prefrontal co-activations, this cluster encapsulates the macro-level computation of reward, incentive motivation, and cost-benefit decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Tethered to the default mode network, these terms represent the internally directed, high-level functional domain responsible for constructing models of the self, simulating the minds of others, and processing interpersonal dynamics."
+        }
+    ]
+}

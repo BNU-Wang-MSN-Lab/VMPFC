@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation within the anterior insula, anterior cingulate, and subcortical structures, reflecting the overarching processing of emotional valence, physiological arousal, and mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Mapping onto the overarching orbitofrontal-striatal circuitry, these concepts are bound by the macroscopic computation of subjective utility, reward prediction, and goal-directed behavioral drive."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms strongly co-activate cortical midline structures and the temporoparietal junction, united by the internally directed generation of abstract representations involving the self, personal histories, and the mental states of others."
+        }
+    ]
+}

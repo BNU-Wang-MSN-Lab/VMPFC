@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses the broad processing of emotional valence, physiological arousal, and general mood states, subserved by macroscopic limbic and autonomic regulatory systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the computation of subjective utility, reward anticipation, and reinforcement-based decision-making, which are primarily mediated by frontostriatal and dopaminergic circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses internally directed, self-generated representations regarding the self, others, and interpersonal narratives, aligning tightly with the functional axis of the default mode system."
+        }
+    ]
+}

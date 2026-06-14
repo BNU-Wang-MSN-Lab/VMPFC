@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share a latent axis of emotional valence, arousal, and mood processing that strongly relies on macroscopic limbic and salience network structures."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This axis represents the computation of incentive salience, subjective utility, and goal-directed appraisal subserved by the meso-corticolimbic circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster binds internally generated representations of the self and others, reflecting a continuum of social and self-referential processing that robustly co-activates the default mode network."
+        }
+    ]
+}

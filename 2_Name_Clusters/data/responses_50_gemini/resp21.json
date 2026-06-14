@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto cortico-limbic and brainstem circuits that jointly compute the arousing, valenced, and visceral dimensions of an organism's psychological and physiological states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms co-activate within striato-cortical circuitry responsible for computing subjective value, updating reinforcement contingencies, and translating incentives into goal-directed choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms overlap primarily within the topological layout of the default mode network, representing generative internal models of self-identity, temporal self-projection, and the inference of others' mental states."
+        }
+    ]
+}

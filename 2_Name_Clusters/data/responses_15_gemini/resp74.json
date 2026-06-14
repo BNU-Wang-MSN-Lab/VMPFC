@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms exhibit robust co-activation within salience and cortico-limbic pathways, mapping onto the high-level functional axis of emotional reactivity, valence processing, and mood state regulation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects shared recruitment of mesolimbic and ventromedial prefrontal reward circuitries, underpinning the macroscopic computation of subjective utility, goal-directed motivation, and economic choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognitive",
+            "justification": "These terms consistently co-activate across the default mode network, representing the broad internally-directed processing domain responsible for integrating self-referential thought, autobiographical memory, and the representation of others."
+        }
+    ]
+}

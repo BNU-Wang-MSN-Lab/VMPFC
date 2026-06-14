@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms rely on paralimbic and amygdalar networks to process emotional arousal, subjective feeling states, and emotional valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster captures the core functions of cortico-striatal networks dedicated to outcome prediction, reward assessment, and motivated goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts describe self-generated and externally directed interpersonal thought, mapping onto transmodal cortical territories that integrate self-referential memory with the abstract representation of others."
+        }
+    ]
+}

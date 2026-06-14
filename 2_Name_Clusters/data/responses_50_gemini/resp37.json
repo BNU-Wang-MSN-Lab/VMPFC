@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures generalized emotional, autonomic, and interoceptive processing spanning valence and arousal, primarily subtended by insular, amygdalar, and anterior cingulate cortices."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents incentive-salience, neuroeconomic assessment, and goal-directed decision-making supported by mesolimbic-striatal and ventromedial prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Encompasses internally-directed, abstract representational processes regarding the self and others, mapping cohesively onto the default mode network."
+        }
+    ]
+}

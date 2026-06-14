@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto the coordinated activity of salience and autonomic processing networks (e.g., amygdala, anterior insula, dACC) that govern the macroscopic generation, experience, and regulation of broad mood and arousal states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms share mesostriatal and ventromedial prefrontal co-activation profiles corresponding to the macroscopic calculation of incentive salience, cost-benefit analysis, and the guidance of goal-directed behavioral selection."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally on internally-directed cortical subsystems (primarily the default mode network), subserving the broader overarching domain of representing self-identity and modeling the minds of other agents."
+        }
+    ]
+}

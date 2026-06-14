@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation across paralimbic and limbic pathways, reflecting the broad, high-level processing of emotional valence, mood, and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Subserved by frontostriatal and mesolimbic circuitry, these terms collectively represent the calculus of assigning subjective worth to environmental stimuli to drive motivated, goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Engaging the architecture of the default mode network, this axis binds the endogenous generation of internal representations regarding the self, interpersonal agents, and temporal autobiographical continuity."
+        }
+    ]
+}

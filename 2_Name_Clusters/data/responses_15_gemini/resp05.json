@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto limbic and salience network co-activations involved in processing valence, arousal, and internal emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms are united by the striatal and ventromedial prefrontal circuitry responsible for assigning subjective worth to stimuli and guiding goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms reflect default mode network co-activations that support abstracted, internally generated representations of the self, personal history, and other agents."
+        }
+    ]
+}

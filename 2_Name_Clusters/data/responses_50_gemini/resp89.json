@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Maps to the salience and limbic macroscopic networks, encompassing the broad functional integration of autonomic arousal, mood regulation, and the physiological coding of valenced stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored in the frontostriatal and reward circuitries, this domain captures the macro-level processing of incentive salience, reinforcement learning, and goal-directed cost-benefit computations."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Rooted in the default mode network, this axis represents internally-directed mental models spanning autobiographical memory, self-referential thought, and the conceptual processing of interacting agents."
+        }
+    ]
+}

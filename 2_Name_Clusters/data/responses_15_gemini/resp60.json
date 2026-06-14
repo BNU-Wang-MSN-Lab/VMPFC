@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects a primary functional axis mediating emotional processing, valence, and macroscopic mood regulation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto a high-level functional domain responsible for computing subjective value, driving motivation, and guiding goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster represents a broad functional axis associated with internally directed thought, uniting self-referential processing with the interpretation of interpersonal states."
+        }
+    ]
+}

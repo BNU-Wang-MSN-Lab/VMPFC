@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the macroscopic computation of valenced states and physiological arousal, typically subserved by the salience and limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms delineate the neuroeconomic and motivational processes of reward appraisal and cost-benefit computation, predominantly anchored in the mesolimbic and orbitofrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This dimension captures the internally-directed abstraction of self and others, encompassing interpersonal and autobiographical representations core to default mode network functioning."
+        }
+    ]
+}

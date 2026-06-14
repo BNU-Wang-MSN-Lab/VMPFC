@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster captures the broad macroscopic axis governing emotional reactivity, autonomic arousal, and subjective mood states typically driven by limbic and salience network co-activations."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms collectively describe the overarching neuroeconomic functions of incentive salience, reinforcement learning, and cost-benefit decision-making anchored in dopaminergic corticostriatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses the high-level integration of self-referential thought, autobiographical memory, and the representation of social agents (others) predominantly subserved by default mode network architectures."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto the macroscopic regulation, subjective experience, and processing of internal states of valence and physiological arousal, typically anchored in the brain's core affective and salience circuits."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the overarching neurocomputational domain of assigning subjective weight and incentive salience to stimuli to drive motivated behavior and goal-directed choice, primarily subserved by ventromedial prefrontal and striatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms encompass the broad, internally-directed processing of complex interpersonal schemas, self-constructs, and autobiographical narratives, highly characteristic of default mode network co-activations."
+        }
+    ]
+}

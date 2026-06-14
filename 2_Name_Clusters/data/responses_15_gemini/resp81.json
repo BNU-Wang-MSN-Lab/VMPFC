@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation across limbic and salience circuitry representing the broad functional domain of generating, experiencing, and regulating emotional states and mood."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto dopaminergic, orbitofrontal, and striatal reward networks that functionally compute subjective worth to drive motivation and goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Linked by their strong reliance on the default mode network, these terms represent the overarching functional axis of internal mental models, spanning self-referential thought, personal history, and understanding other minds."
+        }
+    ]
+}

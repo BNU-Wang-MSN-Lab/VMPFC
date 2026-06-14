@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share core functional reliance on limbic and salience networks dedicated to processing emotional valence, autonomic responses, and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms coalesce around striato-cortical reward circuits responsible for calculating subjective utility, reinforcement learning, and guiding motivated decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms co-activate within the default mode network, subserving high-level, internally-directed models of the self, others, and interpersonal dynamics."
+        }
+    ]
+}

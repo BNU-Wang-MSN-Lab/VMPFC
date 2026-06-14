@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share neuroimaging co-activation within limbic and anterior salience networks, reflecting the broad macroscopic functional domain of emotional reactivity, mood, and valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms consistently recruit mesolimbic and frontostriatal circuitry, representing the overarching cognitive axis of encoding subjective utility to guide motivated behavior and choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Consistently mapped onto the default mode network, these terms represent the overarching cognitive domain of processing internally generated, abstract representations of the self, others, and personal narratives."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reliably co-activate within the extended corticolimbic and autonomic systems, reflecting the overarching macro-functional axis of processing emotional valence and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts map onto frontostriatal and dopaminergic pathways, representing the broad cognitive domain of computing incentives, predicting outcomes, and utilizing reward to drive motivated decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Grounded largely in default mode network co-activations, these terms represent the high-level cognitive domain of generating internal referential models to navigate both the self and the minds of others."
+        }
+    ]
+}

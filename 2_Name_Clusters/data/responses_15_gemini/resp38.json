@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain represents the processing of subjective emotional states and physiological arousal, mediated by limbic and salience networks to handle emotionally significant stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain reflects the computation of subjective utility and motivational drive, supported by striato-cortical circuitry to guide goal-directed choice and reward appraisal."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain captures internally-directed abstract representations of oneself and other agents, engaging the default mode network to construct complex social and personal narratives."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the broad processing of emotional valence, physiological arousal, and mood state regulation inherently linked to macroscopic cortico-amygdala and insulo-cingulate dynamics."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms converge on the computation of reward, subjective preferences, and motivation during goal-directed behavior, mapping onto large-scale mesolimbic and ventromedial prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses internally generated, abstract representations of the self and others across time, relying extensively on the intrinsic functional architecture of default mode associative networks."
+        }
+    ]
+}

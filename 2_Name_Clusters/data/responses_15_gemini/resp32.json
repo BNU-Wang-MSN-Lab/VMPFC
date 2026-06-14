@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms closely co-activate within limbic and salience structures responsible for the macroscopic processing of emotional valence and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto frontostriatal and dopaminergic circuitry responsible for computing subjective utility to drive reward-seeking and goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms rely on cortical midline structures to support internally directed abstract mental models, encompassing both self-referential processing and the inference of others' states."
+        }
+    ]
+}

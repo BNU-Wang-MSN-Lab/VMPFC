@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain represents the generalized processing of emotional valence, arousal, and mood states typically mediated by co-activation within the salience and broader limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain encompasses the computation of expected utility, incentive salience, and reinforcement-guided action selection driven by frontostriatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain captures internally directed representations of the self and others, relying on the default mode network to support complex interpersonal, autobiographical, and conceptual models."
+        }
+    ]
+}

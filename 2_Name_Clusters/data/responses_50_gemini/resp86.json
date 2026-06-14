@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the broad functional axis coordinated by limbic and anterior insulo-cingulate cortices to process physiological arousal, valence, and systemic responses to internal or external stimuli."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the macroscopic striatal and ventromedial prefrontal computations underlying incentive-based learning, reward processing, and cost-benefit decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Reflects the internally directed, abstract representational capacities of the cortical midline and temporoparietal cortices, linking self-referential processing with the inference of others' mental states."
+        }
+    ]
+}

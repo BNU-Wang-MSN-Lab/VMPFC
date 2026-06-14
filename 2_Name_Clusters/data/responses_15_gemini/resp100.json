@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms represent high-level processing of emotional valence, mood states, and arousal primarily driven by macroscopic salience and limbic circuit co-activations."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster is unified by frontostriatal computations dedicated to assessing subjective utility, processing incentives, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms reflect internally generated, abstract representations of the self and others that reliably co-activate across the default mode network."
+        }
+    ]
+}

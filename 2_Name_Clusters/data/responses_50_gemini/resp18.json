@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Encompasses the broad functional processing of emotional reactivity, valence, and autonomic arousal states primarily mediated by the extended limbic and salience systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Captures the computational domain of reward processing, incentive-guided motivation, and value-based decision-making rooted in striato-cortical circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Represents the high-level functional axis of internally-directed representations concerning the self, interpersonal relations, and social constructs linked to default mode network co-activation."
+        }
+    ]
+}

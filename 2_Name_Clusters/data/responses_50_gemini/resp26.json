@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain captures the broad spectrum of physiological arousal, emotional reactivity, and valenced feeling states typically subserved by cortico-limbic and salience networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain encompasses the computation of incentive salience, outcome appraisal, and reward-based decision-making heavily mediated by mesolimbic and striato-cortical pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain integrates self-referential processing, autobiographical memory, and the projection of internal models onto other interacting agents, which are classic functional correlates of the default mode network."
+        }
+    ]
+}

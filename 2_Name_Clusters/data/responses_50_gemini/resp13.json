@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms involve emotional reactivity, homeostatic autonomic arousal, and mood regulation, which functionally co-activate within the salience and limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This encompasses the computation of subjective value, reward processing, and cost-benefit decision-making functionally localized to the ventral striatum and ventromedial prefrontal cortex."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms rely on the default mode network's capacity for internally directed thought, linking self-referential autobiographical memory with the modeling of others' mental states."
+        }
+    ]
+}

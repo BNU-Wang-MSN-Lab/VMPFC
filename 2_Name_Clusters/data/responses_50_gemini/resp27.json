@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate across salience and interoceptive neurocircuitry, representing the broad functional axis of processing physiological arousal, subjective feeling states, and threat detection."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Tethered to frontostriatal and dopaminergic pathways, these terms reflect the macroscopic system dedicated to computing stimulus worth, encoding reinforcement, and driving motivated decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored in the default mode network, this cluster captures the overarching functional space where internally directed, self-referential thought converges with the processing of interpersonal and agentic information."
+        }
+    ]
+}

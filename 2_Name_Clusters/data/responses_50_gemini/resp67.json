@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the cortico-limbic and brainstem computations underlying the generation, experience, and autonomic regulation of valenced physiological states and emotional arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto the frontostriatal and mesolimbic macroscopic networks responsible for assigning subjective worth, translating incentives into goal-directed drives, and arbitrating economic choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This maps onto cortical midline and temporoparietal subsystems associated with abstract, internally-directed representations, functioning as a shared neural architecture for computing both self-referential identity and the mental states of others."
+        }
+    ]
+}

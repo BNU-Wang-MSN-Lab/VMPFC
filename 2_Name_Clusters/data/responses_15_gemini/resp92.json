@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within limbic and salience networks, reflecting the broad macro-level processing of emotional valence, arousal, and mood."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms correspond to striatal and orbitofrontal/ventromedial prefrontal circuitries dedicated to computing subjective value, guiding motivational drives, and resolving reward-based choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms map onto the default mode network's functional role in internally-directed representation, bridging self-referential processing, autobiographical memory retrieval, and social attribution."
+        }
+    ]
+}

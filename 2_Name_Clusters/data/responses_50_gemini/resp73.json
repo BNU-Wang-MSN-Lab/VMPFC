@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain captures the overarching integration of autonomic physiological arousal and valenced emotional processing necessary for generalized responses to environmental threats and internal state changes."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain represents the high-level computations of subjective value, reward expectation, and incentive motivation that critically guide goal-directed choice and decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses the high-level representation of intentional agents, utilizing shared neurocognitive architecture to process both self-referential autobiographical models and interpersonal inferences about others."
+        }
+    ]
+}

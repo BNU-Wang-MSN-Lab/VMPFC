@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Unifies emotional valence, autonomic arousal, and threat processing into a single macro-functional axis that reliably drives co-activations across the insular, cingulate, and subcortical regions."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Captures the latent neuro-computational domain underlying motivation, reinforcement learning, and cost-benefit decision-making primarily mediated by frontostriatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Encompasses the functionally integrated processes of self-referential thought, interpersonal modeling, and autobiographical memory structurally mapped to the subsystems of the medial prefrontal and parietal cortices."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses the processing of emotional valences, physiological arousal, and mood state regulation, which functionally co-activate within the brain's salience and cortico-limbic systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the appraisal of incentives, reinforcement-based decision-making, and motivation driven by ventromedial prefrontal and striatal reward circuitries."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain integrates self-referential thought, autobiographical retrieval, and the perception of others, reflecting the internally-directed cognitive axis subserved by the default mode network."
+        }
+    ]
+}

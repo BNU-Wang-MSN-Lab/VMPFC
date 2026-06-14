@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms rely on limbic and salience network co-activations to process internal emotional reactivity, mood states, and valenced physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects cortico-striatal circuitry functioning to compute incentive salience, appraise biological or abstract rewards, and drive motivated choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms map onto the default mode network, representing the macro-level capacity for generating abstract internal models of self, agents, and interpersonal histories."
+        }
+    ]
+}

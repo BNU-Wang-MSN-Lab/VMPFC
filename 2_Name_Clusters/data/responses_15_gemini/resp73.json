@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share robust co-activation within cortico-amygdalar and insular pathways, representing the overarching functional axis of generating, processing, and evaluating emotionally valenced states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Relying heavily on frontostriatal and dopaminergic circuitry, this grouping reflects the macroscopic functional domain of computing incentive salience, cost-benefit tradeoffs, and goal-directed drives."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Supported primarily by the macroscopic topology of the default mode network, this cluster reflects internally directed simulations and the integration of self-referential narratives with interpersonal understanding."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within cortico-limbic circuitry, representing the overarching macroscopic domain of processing valence, arousal, and emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Relying on striato-cortical circuitry, this grouping represents the macro-level functional axis of evaluating options, calculating worth, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Supported by the default mode network, this cluster encapsulates the high-level functional axis of internally constructed representations regarding oneself and other agents."
+        }
+    ]
+}

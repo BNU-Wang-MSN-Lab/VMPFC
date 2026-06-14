@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share macroscopic co-activation within the salience and limbic networks, representing the broad overarching functional domain of processing physiological arousal, emotional valence, and mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Mapping tightly onto striatal and ventromedial prefrontal circuitry, this cluster reflects the latent cognitive axis of computing subjective worth to drive goal-directed behavior, motivation, and choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Referential",
+            "justification": "Driven by the Default Mode Network, these terms share a latent functional axis of internally-directed cognition, specifically referencing the self across time (autobiographical) or projecting that reference to understand others (social, theory of mind)."
+        }
+    ]
+}

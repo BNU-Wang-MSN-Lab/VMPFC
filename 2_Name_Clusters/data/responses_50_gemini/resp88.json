@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the processing, evaluation, and regulation of physiological arousal, subjective feelings, and emotional valences typically mediated by insulo-cingulate and amygdalar pathways."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster encompasses the computation of incentives, expected outcomes, and reward-based reinforcement learning foundational to goal-directed behavior mapped largely to striato-cortical circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster represents the internally directed modeling of self and others, including autobiographical projection and interpersonal reasoning, which consistently co-activate within the default mode network."
+        }
+    ]
+}

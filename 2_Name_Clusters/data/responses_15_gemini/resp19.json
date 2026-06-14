@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation profiles across the anterior insula, amygdala, and anterior cingulate cortex, which collectively process emotional valence, arousal, and internal mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps consistently onto mesolimbic and ventromedial prefrontal circuitry dedicated to computing subjective worth, reward prediction, and goal-directed utility."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored by the default mode network, these terms reflect the internally-directed processing required to generate complex representations of the self, autobiographical narratives, and the internal states of others."
+        }
+    ]
+}

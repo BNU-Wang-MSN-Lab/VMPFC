@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the overarching domain of emotional valence, arousal, and autonomic regulation typically subserved by the insula-amygdala-mPFC co-activation axis."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the latent computational axis of incentive evaluation, reinforcement processing, and goal-directed decision-making governed by corticostriatal pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Encompasses the integrated processing of internally directed representations regarding the self, others, and social concepts anchored in the default mode network."
+        }
+    ]
+}

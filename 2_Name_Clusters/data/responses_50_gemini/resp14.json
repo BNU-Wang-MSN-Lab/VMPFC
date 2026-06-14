@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share neuroimaging co-activation within anterior limbic and salience pathways dedicated to processing emotional valence, visceral states, and generalized arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts map onto mesocorticolimbic circuitry responsible for computing subjective incentive, processing reinforcement, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally across the default mode network, which integrates self-referential processing, autobiographical memory, and interpersonal inferences."
+        }
+    ]
+}

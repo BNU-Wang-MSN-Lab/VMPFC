@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the broad functional axis of emotional arousal, valence, and physiological regulation corresponding centrally to co-activations within the salience and broader limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the neurocomputational domain mediated by frontostriatal and dopaminergic circuitry responsible for weighing rewards, monitoring incentive motivation, and driving choice behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Reflects the default mode network's role in internally directed cognitive representation, abstracting over episodic memory to model both the self and the internal mental states of others."
+        }
+    ]
+}

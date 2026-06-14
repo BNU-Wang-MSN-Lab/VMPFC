@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Reflects the processing and regulation of emotional valences, arousal, and somatic states typically subserved by large-scale salience and limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Captures the computation of incentive salience, reward outcomes, and goal-directed choices driven by striatal and ventromedial frontocortical circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Represents internally-directed cognitive processes that construct mental models of the self and others, primarily mapping onto the default mode network."
+        }
+    ]
+}

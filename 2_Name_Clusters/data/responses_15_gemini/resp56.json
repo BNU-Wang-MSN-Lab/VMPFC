@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms delineate global emotional and mood-related computations that share strong macro-scale co-activation across salience and limbic neurocircuitry."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster captures the appraisal of subjective utility and goal-directed motivation routed primarily through striatal and ventromedial prefrontal pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms share a functional dependence on the default mode architecture, reflecting internally generated, abstract representations regarding the self and interpersonal environments."
+        }
+    ]
+}

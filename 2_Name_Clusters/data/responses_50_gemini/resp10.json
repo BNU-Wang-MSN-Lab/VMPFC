@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the broad dimension of emotional reactivity, valence, and autonomic arousal typically mediated by the integrated limbic and anterior salience systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms converge on the computation of incentive salience, reward processing, and reinforcement-based decision-making fundamentally supported by mesocorticolimbic and striatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This dimension captures internally constructed models of the self and others, mapping directly onto the default mode network's role in processing abstract interpersonal and self-referential narratives."
+        }
+    ]
+}

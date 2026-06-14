@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the broad processing of emotional valence, arousal, and mood states primarily associated with co-activations in the anterior insula, amygdala, and dorsal anterior cingulate cortex."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the macroscopic integration of reward processing, subjective value estimation, and motivated decision-making fundamentally subserved by ventromedial prefrontal and striatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Encompasses self-referential processing, mental state attribution, and abstraction that functionally unites the transmodal cortical regions of the default mode network."
+        }
+    ]
+}

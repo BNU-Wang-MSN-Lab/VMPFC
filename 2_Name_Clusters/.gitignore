@@ -1,0 +1,47 @@
+# =============================================================================
+# .gitignore for 2_Name_Clusters
+# =============================================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ---- Large model weights (15 GB, fetched from HuggingFace) ----
+data/Qwen3-Embedding-8B/
+
+# ---- data: ignore raw dump, keep curated term mapping ----
+data/neurosynth_data/*
+!data/neurosynth_data/term_mapping.json
+data/responses_15_gemini/*.joblib
+data/responses_50_gemini/*.joblib
+
+# ---- Build / dist ----
+build/
+dist/
+*.egg-info/
+
+# ---- Publication binary artifacts (论文用的 PNG 已够，仓库不带 SVG / GIfTI) ----
+*.svg
+*.gii
+*.gii.gz
+
+# ---- Logs ----
+*.log
+*.tmp

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation within salience and extended subcortical circuits, reflecting a macroscopic functional axis dedicated to processing broad emotional valence and arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Corresponding to ventromedial prefrontal and striatal co-activations, this domain represents the macroscopic system for computing subjective worth to integrate and drive motivated, goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored by default-mode network co-activations, this functional domain reflects internally directed representational networks coordinating the conceptual mapping of the self, temporal narratives, and other interpersonal agents."
+        }
+    ]
+}

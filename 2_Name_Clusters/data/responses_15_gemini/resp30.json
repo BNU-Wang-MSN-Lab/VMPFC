@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto limbic and salience circuitry responsible for processing emotional valence, arousal, and mood state dysregulation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects striatal and ventromedial prefrontal network functions that compute subjective significance to guide motivated behavior and reward-based decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms rely on the Default Mode Network to process internally generated representations of agents, encompassing both self-referential identity and the modeling of others' minds."
+        }
+    ]
+}

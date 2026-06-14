@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the broad processing of emotional valence, arousal, and mood state regulation inherently mapped to limbic and anterior insular co-activations."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the macro-level calculation of subjective utility, reward processing, and goal-directed behavioral drive linked to striatal and ventromedial prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Mentation",
+            "justification": "Encompasses internally directed, self-generated thought processes spanning personal memory, self-representation, and social conceptualization characteristically supported by the default mode network."
+        }
+    ]
+}

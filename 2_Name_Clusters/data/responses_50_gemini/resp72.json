@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses broad emotional valence, systemic arousal, and autonomic reactivity, reflecting the macroscopic co-activation patterns of the brain's salience and limbic systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain reflects the computation of reward, incentive processing, and motivated decision-making mediated by macroscopic striatal and ventromedial prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain captures internally directed representations governing self-referential thought and the simulation of subjective states in others, typically engaging large-scale default mode circuitry."
+        }
+    ]
+}

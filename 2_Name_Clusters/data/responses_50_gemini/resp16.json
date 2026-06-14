@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms collectively map onto the macroscopic salience and limbic cortical-subcortical circuits responsible for interoceptive monitoring, physiological arousal, and broad emotional reactivity."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the coordinated activation of mesolimbic, ventral striatal, and orbitofrontal circuits that calculate intrinsic/extrinsic significance, compute incentives, and guide motivated decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms bind together along the broadly distributed Default Mode Network, which supports internally-directed associative processes vital for representing complex internal models of agents, encompassing both self-referential and interpersonal representations."
+        }
+    ]
+}

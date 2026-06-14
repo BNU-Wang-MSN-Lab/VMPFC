@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms collectively represent the processing of emotional valence, physiological arousal, and subjective mood states mapped primarily to salience and corticolimbic co-activation patterns."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts form a macroscopic functional axis centered on reinforcement learning, incentive computation, and cost-benefit decision-making anchored in striatal and frontomedial circuitries."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms encompass the internally directed processing of self-referential information, person perception, and interpersonal abstraction that robustly recruits the default mode network."
+        }
+    ]
+}

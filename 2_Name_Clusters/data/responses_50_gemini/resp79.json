@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Represents the overarching functional axis of emotional, aversive, and autonomic processing that typically maps onto salience and amygdala-centric limbic circuitry."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Captures the computational and motivational axis underlying reward processing, incentive-based decision-making, and reinforcement governed by striatal and ventromedial prefrontal systems."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognitive",
+            "justification": "Encompasses both internally-directed subjective abstraction and externally-directed interpersonal inference which robustly co-activate within the default mode architecture."
+        }
+    ]
+}

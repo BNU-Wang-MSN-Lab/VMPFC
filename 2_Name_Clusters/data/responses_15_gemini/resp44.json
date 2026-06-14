@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto macroscopic affective-salience circuitry responsible for generalized emotional reactivity, arousal, and valence processing."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts are subserved by ventromedial and cortico-striatal circuits that compute subjective value and integrate it into motivational drive and choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms consistently co-activate the default mode network, which supports internally constructed, referential representations of the self, others, and temporal narratives."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within broad cortical-subcortical affective circuits, mediating physiological arousal, emotional valence, and subjective mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects computations within reward and reinforcement pathways responsible for processing incentive, neuroeconomic choice, and goal-directed motivational drive."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts rely on the brain's internal-projection systems to generate internally directed, abstract mental representations linking self-processing, autobiographical memory, and social inference."
+        }
+    ]
+}

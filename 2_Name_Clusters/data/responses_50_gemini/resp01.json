@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate across salience and limbic pathways to govern broad manifestations of physiological arousal, emotional valence, and generalized internal states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms reflect computations within mesolimbic and frontostriatal circuitries underlying reinforcement learning, motivational drives, and subjective value-based action selection."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored primarily in default mode network activity, these terms coordinate internally directed thought, self-referential processing, and the representation of psychological states in oneself and others."
+        }
+    ]
+}

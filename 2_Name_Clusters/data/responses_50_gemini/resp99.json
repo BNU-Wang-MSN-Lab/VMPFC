@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the broad processing of valence, autonomic arousal, and emotional states typically subserved by the salience and limbic systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms delineate the computation of incentive value, reinforcement learning, and motivated decision-making anchored in striatal and ventromedial prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses self-referential and interpersonal representations, bridging autobiographical memory and social inference, which are the functional hallmark of the default mode network."
+        }
+    ]
+}

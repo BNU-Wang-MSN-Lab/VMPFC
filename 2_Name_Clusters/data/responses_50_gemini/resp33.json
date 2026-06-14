@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within cortico-subcortical affective circuits that are broadly responsible for processing valenced stimuli, visceral states, and emotional reactivity."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms converge functionally on dopaminergic-striatal-prefrontal pathways dedicated to computing expected value, evaluating outcomes, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms map onto default mode cortical architectures that subserve the internally directed representation of agents, linking self-projection, autobiographical memory, and understanding others."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the overarching macroscopic processing of emotional valence, mood regulation, and visceral arousal states typically functionally integrated across amygdala, anterior insula, and anterior cingulate networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Encompasses the macroscopic computation of subjective reward, cost-benefit analysis, and goal representations that drive motivated behavioral selection within the ventromedial prefrontal and striatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Represents internally generated, referential thought processes dedicated to modeling complex intentional agents, seamlessly spanning representations of one's own autobiographical self and the minds of others via transmodal apex networks."
+        }
+    ]
+}

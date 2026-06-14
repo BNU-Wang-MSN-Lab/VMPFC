@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain captures the macro-level processing of physiological arousal, valenced states, and threat-response mapping typically subserved by the brain's integrated salience and cortico-amygdalar systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This axis represents the overarching computation of incentive, reward reinforcement, and cost-benefit analysis required for goal-directed decision making, predominantly anchored in macroscopic striato-prefrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This macro-domain encapsulates the internal construction of agent-based representations, bridging self-referential processing, autobiographical context, and interpersonal understanding that are fundamentally driven by the default mode network."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto limbic and salience network co-activations underlying the broad macroscopic axis of generating, perceiving, and regulating emotional and visceral states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms consistently recruit frontostriatal and dopaminergic pathways to support the latent cognitive axis of computing subjective value, processing reinforcement, and motivating goal-directed action."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms reflect overlapping default mode network engagement along the latent functional axis of constructing and maintaining complex internal representations of both the self and other agents."
+        }
+    ]
+}

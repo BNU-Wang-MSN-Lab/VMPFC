@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto the broad processing of emotional valence, physiological arousal, and subjective feeling states typically subserved by the brain's salience and limbic neurocircuitry."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Motivation",
+            "justification": "This cluster reflects complex incentive-based processing, reward valuation, and reinforcement-guided decision making functionally localized to striatal and ventromedial prefrontal pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms encapsulate internally directed, self-generated representational processes—such as autobiographical memory and attributing mental states to oneself and others—that are the cognitive hallmark of default mode network co-activation."
+        }
+    ]
+}

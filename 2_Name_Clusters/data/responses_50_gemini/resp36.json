@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reliably co-activate within insular-amygdala and anterior cingulate networks, reflecting the overarching macroscopic axis of interoceptive arousal, emotional valence, and mood state."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Mapping onto cortico-striatal and ventromedial prefrontal pathways, this domain represents the generalized computation of subjective utility, incentive salience, and goal-directed motivational drive."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored functionally within the medial prefrontal and temporoparietal hubs of internally directed large-scale networks, this axis subsumes complex representations of the self, social agents, and interpersonal dynamics."
+        }
+    ]
+}

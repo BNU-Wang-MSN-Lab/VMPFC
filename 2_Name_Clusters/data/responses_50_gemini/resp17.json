@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto cortico-limbic and somatic processing networks that subserve the generation, regulation, and autonomic mapping of valenced states and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms co-activate within mesolimbic and orbitofrontal circuitry underlying reward processing, incentive salience, and cost-benefit outcome evaluation."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally within cortical midline and temporoparietal structures to support overarching internal representations of the self, others, and interpersonal constructs."
+        }
+    ]
+}

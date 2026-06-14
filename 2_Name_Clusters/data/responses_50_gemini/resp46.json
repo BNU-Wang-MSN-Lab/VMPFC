@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto macroscopic salience and visceromotor networks, representing the overarching functional domain of processing physiological arousal, emotional reactivity, and stress responses."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the functional computations of mesolimbic and striatal circuitry, centering on the assessment of subjective utility, incentive, and cost to drive motivated behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge on the Default Mode Network, which supports high-level, internally constructed representational processes involving the self, other agents, and complex interpersonal dynamics."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms collectively map onto salience and limbic co-activation networks, such as the amygdala and anterior insula, representing the broad functional domain of generalized emotional arousal and valence processing."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts share robust co-activation across mesocorticolimbic pathways, including the ventral striatum and ventromedial prefrontal cortex, which compute incentive salience, expected outcomes, and goal-directed drives."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms share macroscopic topography within the default mode network, representing an overarching axis of internally directed, self-generated abstract representations encompassing both self-referential thought and the modeling of others' minds."
+        }
+    ]
+}

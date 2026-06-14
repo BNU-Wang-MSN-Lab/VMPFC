@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map onto widespread cortico-amygdalar and anterior insula co-activations, representing the broad macroscopic domain of emotional reactivity, mood, and valence processing."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms converge functionally on frontostriatal and dopaminergic circuitry, forming the core macro-domain responsible for computing incentive salience, reward outcomes, and guiding motivated choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognitive",
+            "justification": "These terms robustly anchor to the large-scale Default Mode Network architecture, reflecting an overarching functional axis dedicated to internally directed, self-referential, and interpersonal semantic models."
+        }
+    ]
+}

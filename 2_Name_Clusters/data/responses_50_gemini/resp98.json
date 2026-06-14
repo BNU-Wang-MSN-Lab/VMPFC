@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share robust co-activation within the amygdala, anterior insula, and anterior cingulate, representing the macroscopic processing of valenced internal states, physiological arousal, and emotional reactivity."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps centrally onto ventromedial prefrontal and striatal circuitries, unified by the functional computation of incentive, reward processing, and value-based decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms co-activate across cortical midline structures and the temporoparietal junction, capturing internally-directed processes that support representations of the self and the mental states of others."
+        }
+    ]
+}

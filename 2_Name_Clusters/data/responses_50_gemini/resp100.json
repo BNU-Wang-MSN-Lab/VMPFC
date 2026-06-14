@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms represent the macroscopic processing of emotional valence, physiological arousal, and interoception, driven primarily by the large-scale co-activation of insula-cingulate and amygdalar hubs."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the computation of subjective reward, reinforcement learning, and goal-oriented decision-making that reliably maps onto overarching frontostriatal and dopaminergic circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms share a dependence on internally directed representation and multi-agent modeling, drawing mechanistically on the medial prefrontal and temporal hubs of the default mode network."
+        }
+    ]
+}

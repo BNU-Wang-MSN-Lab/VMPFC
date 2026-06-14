@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share foundational co-activation within salience and limbic systems, reflecting the broad functional axis of processing generalized emotional valence, arousal, and mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster encompasses mesolimbic and orbitofrontal circuitry functions dedicated to computing the subjective worth of stimuli to drive motivated behavior and goal-directed choices."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Operating primarily through the default mode network, this axis represents the high-level, internally-directed processing required to model complex abstract agents such as the self and others across time."
+        }
+    ]
+}

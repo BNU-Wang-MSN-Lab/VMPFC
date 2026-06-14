@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the macroscopic functions of the salience and limbic networks, mediating emotional responsivity, interoception, threat detection, and autonomic arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto the corticostriatal circuitry responsible for computing incentive salience, processing reinforcement, and driving goal-directed decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally on the default mode network, which underlies internally directed representations of the self, autobiographical memory, and the complex processing of interpersonal interactions."
+        }
+    ]
+}

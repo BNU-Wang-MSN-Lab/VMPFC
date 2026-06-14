@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects co-activation within limbic, insular, and autonomic pathways dedicated to the processing, physiological arousal, and regulation of emotional states and valence."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto frontostriatal and dopaminergic circuits responsible for computing incentive weight, reinforcement learning, and cost-benefit analyses during goal-directed decision making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster aligns closely with the cortical midline and temporoparietal subsystems which map shared representations linking autobiographical self-projection, internal mentation, and the understanding of others."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster captures the broad functional axis of emotional reactivity, physiological arousal, and valence processing typically co-activating within limbic and salience subnetworks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster reflects the macroscopic domain of subjective value calculation, incentive motivation, and reinforcement-based decision making subserved by mesolimbic and frontostriatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster encapsulates internally directed representational processes regarding the self and others, which characteristically map onto the large-scale co-activation patterns of the default mode network."
+        }
+    ]
+}

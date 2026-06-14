@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation in the anterior insula, amygdala, and dACC, mapping onto the broad processing and autonomic regulation of valence, arousal, and visceral states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms rely on frontostriatal and dopaminergic pathways responsible for computing subjective utility, guiding goal-directed behavior, and anticipating reinforcement outcomes."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge on cortical midline structures and the temporoparietal junction, which drive internally directed representations of the self and the inference of others' conceptual states."
+        }
+    ]
+}

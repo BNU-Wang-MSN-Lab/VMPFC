@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Reflects the broad processing of emotional significance, physiological arousal, and subjective feelings fundamentally linked to the salience and corticolimbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the macro-level computation of stimulus utility, reward learning, and motivated decision-making canonical to fronto-striatal dopaminergic networks."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Captures the macroscopic domain of internally directed processing, integrating self-referential thought, interpersonal empathy, and social attribution mediated by the default mode network."
+        }
+    ]
+}

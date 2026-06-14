@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activations in regions such as the amygdala and anterior insula, representing the macro-level domain responsible for experiencing, processing, and regulating emotional valences and mood states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts converge on frontostriatal and dopaminergic circuitries, forming the macroscopic functional domain that computes subjective worth and incentive salience to guide goal-directed choices and motivated behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Driven by co-activations within the default mode network, this domain binds internally-generated representations required to construct longitudinal models of the self, autobiographical narratives, and the mental states of other agents."
+        }
+    ]
+}

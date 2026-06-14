@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster encapsulates broad emotional reactivity, valence processing, and physiological arousal states characteristically mediated by the anterior insula, medial prefrontal, and amygdalar co-activation patterns."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms delineate the computation of subjective value, incentive processing, and reward-based decision-making typically subserved by frontostriatal macro-circuits."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster represents internally directed mentation, spanning self-referential thought and the appraisal of others' mental states, fundamentally anchored by the default mode network."
+        }
+    ]
+}

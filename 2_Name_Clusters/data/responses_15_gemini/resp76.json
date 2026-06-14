@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share robust spatial co-activation across the anterior insula, cingulate, and subcortical pathways corresponding to the macro-functional domain of processing emotional valence and arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps closely onto mesolimbic and ventromedial prefrontal architectures, representing the overarching functional axis of computing subjective utility, reward processing, and goal-directed motivation."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored functionally in the default mode network's architecture, these terms define the macro-domain of internally directed, abstract representations regarding self-identity, interpersonal dynamics, and social narrative."
+        }
+    ]
+}

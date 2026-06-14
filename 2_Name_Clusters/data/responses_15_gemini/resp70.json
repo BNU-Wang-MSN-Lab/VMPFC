@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share robust co-activation across amygdala-insula-cingulate circuitry, representing the generalized perception, generation, and regulation of valenced psychological states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto ventromedial prefrontal and ventral striatal co-activations that computationally assign subjective worth, encode expected outcomes, and drive goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally within the midline cortical nodes of the default mode network to support the integration of self-referential narratives, autobiographical memory, and the abstraction of interpersonal agentic intentions."
+        }
+    ]
+}

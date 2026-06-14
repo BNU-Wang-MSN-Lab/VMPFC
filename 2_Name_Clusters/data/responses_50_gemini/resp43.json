@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect the processing of emotional valence, physiological arousal, and stress responses broadly subserved by the large-scale salience and interoceptive neuro-axis."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This dimension captures the computation of incentive outcomes, cost-benefit analysis, and reinforcement learning predominantly mediated by frontostriatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts form the macro-domain of internally-focused processing, encompassing autobiographical self-projection and the simulation of others' mental states via the default mode network."
+        }
+    ]
+}

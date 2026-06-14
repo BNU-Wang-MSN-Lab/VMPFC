@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster reflects the macroscopic neurocognitive axis responsible for processing emotional reactivity, valence, and subjective arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto a goal-directed functional domain responsible for computing subjective value, incentive processing, and cost-benefit outcome evaluation."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts converge on a macroscopic functional domain dedicated to internally directed, temporally decoupled mental representations regarding the self and other agents."
+        }
+    ]
+}

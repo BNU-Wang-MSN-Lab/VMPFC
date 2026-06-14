@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share neuroimaging co-activations across the anterior insula, cingulate, and amygdala, representing the overarching axis of processing valence, general mood, and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms are unified by their engagement of striatal, dopaminergic, and ventromedial prefrontal circuits underlying the computation of expected outcomes, reward-seeking, and goal-directed drive."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts reliably engage the default mode network, representing a broad axis of internally-constructed representations regarding personal identity, episodic context, and interpersonal dynamics."
+        }
+    ]
+}

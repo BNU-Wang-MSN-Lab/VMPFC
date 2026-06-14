@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect macroscopic co-activation across salience and interoceptive pathways dedicated to processing emotional valence, mood states, and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster maps onto overarching incentive and reinforcement processing, operating through fronto-striatal circuitry to govern reward appraisal, motivation, and goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms share large-scale co-activation within the default mode network, driving complex, internally generated representations necessary for structuring personal history, identity, and the mental states of others."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms map to a functional axis involving cortico-limbic and brainstem circuits that coordinate physiological arousal, emotional valence, and homeostatic responses to environmental challenges."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms co-activate within mesolimbic and ventromedial prefrontal pathways responsible for computing expected outcomes, appraising reinforcers, and driving goal-directed choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms converge functionally on the default mode network, subserving internally directed streams of thought necessary for self-referential projection, autobiographical recall, and interpreting the minds of others."
+        }
+    ]
+}

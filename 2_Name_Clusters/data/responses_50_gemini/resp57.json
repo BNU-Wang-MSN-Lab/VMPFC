@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect the broad domain of processing autonomic arousal, emotional valence, and homeostatic physiological states largely subserved by insular, amygdalar, and anterior cingulate co-activations."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster captures the computation of subjective utility, incentive salience, and reinforcement learning robustly mapped onto frontostriatal and dopaminergic midbrain circuitries."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms rely heavily on the default mode network to support internally directed simulations, mapping the internal mental states of both the self and others."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms represent the broad spectrum of emotional, aversive, and autonomic processing, sharing macroscopic co-activation patterns primarily anchored in the salience and limbic systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This axis maps onto the cortico-striatal reward circuitry, unifying concepts related to incentive processing, motivation, decision-making, and the computation of subjective value."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Shared co-activation within the default mode network binds these terms into a macro-functional domain dedicated to internal conceptual representations pertaining to oneself and social others."
+        }
+    ]
+}

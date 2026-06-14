@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the overarching spectrum of emotional processing, autonomic arousal, valence, and subjective feeling states typically mediated by the salience and limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Reflects the computation of incentive salience, reinforcement learning, and outcome-based decision-making subserved by frontostriatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Encompasses the generation of internal models regarding the self and others, unifying autobiographical memory and interpersonal perception anchored in the default mode network."
+        }
+    ]
+}

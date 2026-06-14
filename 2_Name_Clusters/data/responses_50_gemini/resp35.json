@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster captures the broad dimensional spectrum of emotional reactivity, threat detection, and autonomic arousal that maps onto corticolimbic and salience-detection circuitry."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms collectively represent the computation of subjective utility, incentive motivation, and reinforcement learning inherently mediated by frontostriatal and dopaminergic pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This axis reflects internally directed, complex representational modeling of self and others (self-projection), which characteristically engages the default mode network."
+        }
+    ]
+}

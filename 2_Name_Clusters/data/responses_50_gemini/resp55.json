@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This dimension captures the overarching process of evaluating valence, physiological arousal, and threat, mapping reliably onto the brain's extended allostatic and salience-processing neurobiological systems."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms reflect the computation of subjective utility, action-selection, and goal-directed drive, anchoring functionally onto macroscopic mesolimbic and ventromedial prefrontal reward circuitries."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses internally-directed associative thought regarding oneself and other conceptual agents, typically subserved by cortical midline and temporoparietal hubs of the default mode network."
+        }
+    ]
+}

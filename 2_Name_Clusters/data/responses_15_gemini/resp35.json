@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms robustly co-activate within cortico-limbic architectures dedicated to the generalized generation, processing, and regulation of emotional valences and arousals."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster relies on frontostriatal and dopaminergic pathways specialized for computing expected outcomes, processing rewards, and guiding internally motivated goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts systematically recruit the default mode network to support complex, internally constructed representational models of both the subjective self and interpersonal others."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share co-activation within the salience and broader limbic networks, representing the macroscopic functional axis of emotional reactivity, interoceptive processing, and autonomic arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms map onto the mesolimbic dopamine and ventral striatal circuitries, reflecting the overarching cognitive domain of computing subjective worth to guide motivation, reinforcement, and choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms robustly engage the default mode network, unifying internally-directed thought processes required for self-referential representations, autobiographical memory projection, and navigating interpersonal constructs."
+        }
+    ]
+}

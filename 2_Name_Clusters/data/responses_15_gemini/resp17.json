@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share neuroimaging co-activation patterns rooted in anterior insula, amygdala, and anterior cingulate networks, representing the high-level functional processing of emotional valence and physiological arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Anchored in ventromedial prefrontal and dopaminergic striatal circuitry, these terms reflect the macroscopic cognitive axis of computing expected outcomes, assessing reward, and driving goal-directed behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Tied to default mode network co-activations (e.g., medial prefrontal cortex, temporoparietal junction), this cluster captures the internally-generated representational axis required to model the self and others."
+        }
+    ]
+}

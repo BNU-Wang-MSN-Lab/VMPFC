@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Captures the underlying salience and limbic network co-activations dedicated to processing emotional valence, arousal, and subjective feeling states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Represents the frontostriatal computations involved in assigning subjective worth to stimuli in order to hierarchically guide motivated behavior and choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Reflects the default mode network's overarching capacity for generating abstract, internally-directed models of agents, spanning autobiographical identity and interpersonal understanding."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain captures the physiological generation, subjective experience, and regulation of emotional and arousal states, which consistently co-activate within the salience and limbic networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms are unified by the computation of subjective utility, incentive-based motivation, and reinforcement learning, mapping strongly onto ventral striatal, dopaminergic, and orbitofrontal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain encompasses the high-level representation and integration of internal subjective states for both the self (autobiographical, self-referential) and others (empathy, theory of mind), classically anchored by the default mode network."
+        }
+    ]
+}

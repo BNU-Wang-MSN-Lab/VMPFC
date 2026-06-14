@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "United by co-activation in the limbic and salience circuitry (e.g., amygdala, anterior insula, ventral striatum), these terms reflect the overarching macroscopic domain of emotional valence, arousal, and mood processing."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Driving localized activity in the striatum, orbitofrontal cortex, and broader reward circuitry, this cluster represents the high-level functional axis of computing subjective value to guide choices and motivated behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Bound by robust co-activation across the default mode network (e.g., medial prefrontal cortex, temporoparietal junction, posterior cingulate), this axis supports internally generated, referential thought directed at the self and others."
+        }
+    ]
+}

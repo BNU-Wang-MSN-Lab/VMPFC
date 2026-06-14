@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster represents a broad macroscopic domain mapping onto paralimbic and autonomic regulatory networks that compute generalized emotional reactivity, mood states, and interoceptive arousal."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Motivation",
+            "justification": "These terms delineate goal-directed domains mapped to frontostriatal and dopaminergic circuitry, encompassing reward valuation, incentive salience, and cost-benefit decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster captures the integration of internal representations of the self and conceptual representations of others, mapping directly onto the Default Mode Network's axis of self-projection and social inference."
+        }
+    ]
+}

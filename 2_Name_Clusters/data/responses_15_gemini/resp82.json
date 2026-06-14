@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "Represents the broad, macro-level processing of valence, arousal, and emotional regulation predominantly subserved by the brain's salience and limbic pathways."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Captures the macroscopic computation of expected utility, incentive salience, and goal-directed choice mediated by cortico-striatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognitive",
+            "justification": "Encompasses internally-directed, abstract processing of self-referential and interpersonal representations typically anchored globally within the default mode network."
+        }
+    ]
+}

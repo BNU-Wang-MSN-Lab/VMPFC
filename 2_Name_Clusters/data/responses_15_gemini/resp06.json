@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share convergent co-activation within the salience and limbic networks, mediating the physiological arousal, regulation, and subjective experience of valenced internal states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This grouping reflects the mesolimbic-cortical computational axis responsible for assessing subjective utility, processing reinforcement, and driving goal-oriented decision-making."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Anchored primarily in the default mode network, these domains depend on the internally directed generation of abstracted representational models of the self and other agents."
+        }
+    ]
+}

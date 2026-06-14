@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This domain encompasses the high-level processing of physiological arousal, emotional valence, and mood states, functionally mapping onto the macroscopic co-activation patterns of limbic and salience networks."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This domain captures the computation of incentives, subjective reward, and motivation to guide decision-making, which is canonically subserved by large-scale mesolimbic and fronto-striatal circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This domain reflects internally directed, abstract representational processes concerning the self, autobiographical past, and social others, anchored functionally by the default mode network."
+        }
+    ]
+}

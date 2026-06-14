@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share robust co-activation within the circumscribed salience and broader affective network circuitries (e.g., insula, amygdala, anterior cingulate), collectively representing the overarching macroscopic functional domain of processing valence, arousal, and mood."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts demonstrate dense co-activation across the ventral striatum, orbitofrontal cortex, and dopaminergic pathways, reflecting a unified macro-cognitive domain of cost-benefit computation, incentive processing, and goal-directed drive."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "Relying heavily on shared co-activation throughout the core subsystems of the default mode network (e.g., medial prefrontal cortex, temporoparietal junction, precuneus), these variables represent a broad functional axis dedicated to internally generating abstract representations of oneself and others."
+        }
+    ]
+}

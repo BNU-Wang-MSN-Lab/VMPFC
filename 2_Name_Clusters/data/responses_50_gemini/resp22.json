@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster represents the broad functional domain of emotional reactivity, physiological arousal, and subjective feeling states typically mediated by cortical-subcortical salience and affective pathways."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster captures the computation of subjective utility, incentive processing, and motivation-driven decision mechanisms primarily linked to frontostriatal reward circuitry."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster reflects the internally-directed functional axis dedicated to self-referential thought, autobiographical memory, and processing interpersonal information historically mapped to the default brain systems."
+        }
+    ]
+}

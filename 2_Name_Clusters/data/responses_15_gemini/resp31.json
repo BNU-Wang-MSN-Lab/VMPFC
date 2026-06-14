@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms co-activate within the extended amygdala, anterior insula, and subgenual cingulate circuitry, reflecting the overarching macroscopic processing of emotional reactivity, mood generation, and visceral somatosensation."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms systematically recruit the ventromedial prefrontal cortex and mesolimbic striatal pathways, mediating the broad computational axis of incentive salience, outcome appraisal, and goal-directed cost-benefit integration."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms consistently engage the core midline structures of the default mode network (medial prefrontal cortex, posterior cingulate), representing a latent dimension of internally-directed, abstract self-referential and interpersonal computation."
+        }
+    ]
+}

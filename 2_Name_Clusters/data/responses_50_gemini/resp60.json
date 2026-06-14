@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms reflect the processing of autonomic arousal, emotional reactivity, and interoceptive states primarily mediated by macroscopic cortico-limbic and somatomotor co-activation patterns."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "This cluster captures the subjective appraisal of external stimuli, rewards, and incentives that drive motivated behavior and choice via striato-cortical reinforcement pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These concepts share an underlying reliance on overarching default-mode co-activations to internally model, represent, and evaluate the conceptual self alongside the mental states of others."
+        }
+    ]
+}

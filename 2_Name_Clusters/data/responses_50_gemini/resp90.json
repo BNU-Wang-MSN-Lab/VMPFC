@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms are united by their reliance on the brain's salience and limbic networks, which broadly process emotional states, physiological arousal, and stress responses."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These concepts co-activate within mesocorticolimbic reward circuitry, reflecting a macro-level functional axis dedicated to computing subjective value, guiding choices, and motivating behavior."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "These terms map onto the default mode network, which subserves high-level, internally directed abstract processing regarding the self, others, and social concepts."
+        }
+    ]
+}

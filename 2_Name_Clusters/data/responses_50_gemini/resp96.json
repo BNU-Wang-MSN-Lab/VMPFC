@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "These terms share underlying co-activation in the salience and limbic networks, acting as the overarching axis for processing physiological arousal, valence, and emotional states."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "Spanning frontostriatal and ventromedial prefrontal regions, this cluster represents the macroscopic functional domain responsible for computing subjective worth, guiding motivation, and driving choice."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognitive",
+            "justification": "Rooted in default mode network co-activation patterns, these terms capture the high-level, internally directed computations necessary for mapping self-identity and modeling the minds of others."
+        }
+    ]
+}

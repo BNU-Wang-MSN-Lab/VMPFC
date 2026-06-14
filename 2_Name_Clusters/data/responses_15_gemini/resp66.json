@@ -1,0 +1,19 @@
+{
+    "clusters": [
+        {
+            "cluster_id": "Cluster 1",
+            "domain_name": "Affect",
+            "justification": "This cluster captures the broad macroscopic axis of emotional reactivity, mood, and valence processing typically subserved by amygdalo-cortical and anterior insular circuitry."
+        },
+        {
+            "cluster_id": "Cluster 2",
+            "domain_name": "Valuation",
+            "justification": "These terms represent the high-level functional domain of reward processing, incentive salience, and cost-benefit outcome calculation anchored within frontostriatal and dopaminergic pathways."
+        },
+        {
+            "cluster_id": "Cluster 3",
+            "domain_name": "Sociocognition",
+            "justification": "This cluster reflects the internally directed, self-referential, and interpersonal representational processes that map mapping onto the midline cortical regions responsible for modeling the self and the minds of others."
+        }
+    ]
+}
