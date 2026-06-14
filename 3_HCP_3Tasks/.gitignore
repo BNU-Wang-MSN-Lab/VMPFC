@@ -1,0 +1,56 @@
+# =============================================================================
+# .gitignore for 3_HCP_3Tasks
+# =============================================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ---- HCP raw / derived volume not redistributed ----
+# HCP S1200 group activation map: publicly available from ConnectomeDB
+# under HCP Open Access Data Use Terms (users must accept DUT before download).
+# tasks.nii.gz is regenerated from the dscalar via data/group/to_nii.sh.
+data/group/HCP_S1200_997_tfMRI_ALLTASKS_level2_cohensd_hp200_s4_MSMAll.dscalar.nii
+data/group/tasks.nii.gz
+
+# ---- Large permutation outputs (>100 MB, regenerable) ----
+data/individual/*_permutation.list.pkl
+
+# ---- Intermediate per-fold model files (regenerable from notebooks) ----
+results/*_fold*_*.pkl
+results/*_KNN_GridSearch.pkl
+results/*_SVC_GridSearch.pkl
+results/*_Logistic_GridSearch.pkl
+# Aggregated accuracy + permutation_acc pkls are kept on purpose
+# (consumed by 2_5_individual_Plot.ipynb).
+
+# ---- Publication binary artifacts (PNG kept, SVG / GIfTI not) ----
+*.svg
+*.gii
+*.gii.gz
+
+# ---- Build / dist ----
+build/
+dist/
+*.egg-info/
+
+# ---- Logs ----
+*.log
+*.tmp
