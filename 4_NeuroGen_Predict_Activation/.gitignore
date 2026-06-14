@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE / venv
+.vscode/
+.idea/
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs / tmp
+*.log
+*.tmp
+*.bak
+.cache/
+
+# 投稿前不需要的二进制（reviewer 看 PNG 够用）
+*.svg
+*.gii
+*.gii.gz
+
+# 论文未采用的拆分图（数据集分别画），不发布
+codes/3_plot_dataset_split.ipynb
+plots/split_*.png
+plots/split_*.svg
