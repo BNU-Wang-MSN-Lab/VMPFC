@@ -1,0 +1,56 @@
+# =============================================================================
+# .gitignore for 7_Region_Based_Parcellation
+# =============================================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ---- Deprecated gene-mapping analyses (kept locally under codes/useless/) ----
+# Inputs/outputs of the discontinued Allen / AHBA gene-expression workflows.
+# Not part of the published analyses; excluded from the public repository.
+codes/useless/
+data/gene/
+data/method2_brain.pickle
+data/report_roi.txt
+
+# ---- Local scratch outputs ----
+results/temp/
+
+# ---- Regenerable surface / per-label split products of 5_Plot_Split.ipynb ----
+# These are deterministically derived from results/nii/*.nii.gz via
+# wb_command (Connectome Workbench); reproduce by re-running 5_Plot_Split.ipynb.
+results/nii_by_label/
+results/gii/
+results/gii_by_label/
+
+# ---- Publication binary artifacts (PNG kept, SVG / GIfTI not) ----
+*.svg
+*.gii
+*.gii.gz
+
+# ---- Build / dist ----
+build/
+dist/
+*.egg-info/
+
+# ---- Logs ----
+*.log
+*.tmp

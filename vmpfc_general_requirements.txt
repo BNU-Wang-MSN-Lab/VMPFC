@@ -4,6 +4,8 @@ annotated-doc==0.0.4
     # via typer
 annotated-types==0.7.0
     # via pydantic
+antspyx==0.5.3
+    # via -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
 anyio==4.13.0
     # via httpx
 asttokens==3.0.1
@@ -115,7 +117,9 @@ markupsafe==3.0.3
 matplotlib==3.10.9
     # via
     #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
+    #   antspyx
     #   matplotlib-venn
+    #   neuromaps
     #   nimare
     #   seaborn
     #   wordcloud
@@ -135,16 +139,20 @@ nest-asyncio==1.6.0
     # via ipykernel
 networkx==3.6.1
     # via torch
+neuromaps==0.0.7
+    # via -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
 neurostore-sdk==1.2
     # via nimare
 nibabel==5.4.2
     # via
     #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
+    #   neuromaps
     #   nilearn
     #   nimare
 nilearn==0.13.1
     # via
     #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
+    #   neuromaps
     #   nimare
 nimare==0.20.0
     # via -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
@@ -155,10 +163,12 @@ numba==0.65.1
 numpy==2.4.4
     # via
     #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
+    #   antspyx
     #   cognitiveatlas
     #   contourpy
     #   matplotlib
     #   matplotlib-venn
+    #   neuromaps
     #   nibabel
     #   nilearn
     #   nimare
@@ -229,6 +239,7 @@ packaging==26.2
 pandas==3.0.2
     # via
     #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
+    #   antspyx
     #   cognitiveatlas
     #   nilearn
     #   nimare
@@ -245,6 +256,7 @@ pexpect==4.9.0
     # via ipython
 pillow==12.2.0
     # via
+    #   antspyx
     #   matplotlib
     #   python-pptx
     #   wordcloud
@@ -287,6 +299,7 @@ python-pptx==1.0.2
     # via -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
 pyyaml==6.0.3
     # via
+    #   antspyx
     #   huggingface-hub
     #   nimare
     #   transformers
@@ -298,6 +311,7 @@ regex==2026.4.4
     # via transformers
 requests==2.33.1
     # via
+    #   antspyx
     #   nilearn
     #   nimare
 rich==15.0.0
@@ -309,6 +323,7 @@ safetensors==0.7.0
 scikit-learn==1.8.0
     # via
     #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
+    #   neuromaps
     #   nilearn
     #   nimare
     #   sentence-transformers
@@ -316,6 +331,7 @@ scipy==1.17.1
     # via
     #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
     #   matplotlib-venn
+    #   neuromaps
     #   nilearn
     #   nimare
     #   pymare
@@ -338,6 +354,8 @@ stack-data==0.6.3
     # via ipython
 statsmodels==0.14.6
     # via
+    #   -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
+    #   antspyx
     #   nimare
     #   ridgeplot
 sympy==1.14.0
@@ -404,6 +422,8 @@ urllib3==2.6.3
     #   requests
 wcwidth==0.6.0
     # via prompt-toolkit
+webcolors==25.10.0
+    # via antspyx
 wordcloud==1.9.6
     # via -r NAS/NAS4/guoqiu/Project_VMPFC_Final/vmpfc_general_requirements.in
 wrapt==2.1.2

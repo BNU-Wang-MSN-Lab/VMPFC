@@ -20,3 +20,6 @@ tqdm_joblib
 openpyxl
 matplotlib_venn
 xlrd >= 2.0.1
+antspyx
+statsmodels
+neuromaps
