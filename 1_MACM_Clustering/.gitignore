@@ -1,0 +1,66 @@
+# =============================================================================
+# .gitignore for 1_MACM_Clustering
+# =============================================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ---- Raw input data (not redistributed) ----
+# Use "/*" so we can re-include manually curated files inside the folder.
+# Git CANNOT re-include a file if its parent directory is itself ignored,
+# so we must ignore contents (/*), not the directory.
+data/neurosynth_data/*
+!data/neurosynth_data/term_selection.xls
+!data/neurosynth_data/term_mapping.json
+
+data/brainmap_data/
+data/font/
+
+# ---- Intermediate caches (regenerable from notebooks) ----
+results/coactivation/
+results/NSPlus_rank/
+results/neurosynth_decode/
+results/robust/
+results/nii_by_label/
+results/gii_by_label/
+results/gii/
+
+# ---- Large surface / vector artifacts (regenerable) ----
+*.svg
+*.gii
+*.gii.gz
+
+# ---- Build / packaging ----
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ---- Logs and temp ----
+*.log
+*.tmp
+*.bak
+.cache/

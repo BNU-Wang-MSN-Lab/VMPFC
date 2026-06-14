@@ -1,0 +1,22 @@
+numpy
+pandas
+scipy
+torch
+scikit-learn
+transformers
+sentence-transformers
+huggingface_hub
+nilearn
+nibabel
+matplotlib
+seaborn
+wordcloud
+python-pptx
+xlsxwriter
+ffmpeg-python
+ipykernel
+nimare
+tqdm_joblib
+openpyxl
+matplotlib_venn
+xlrd >= 2.0.1
