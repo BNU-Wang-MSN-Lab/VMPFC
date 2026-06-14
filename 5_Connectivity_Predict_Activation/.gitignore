@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE / venv
+.vscode/
+.idea/
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs / tmp
+*.log
+*.tmp
+*.bak
+.cache/
+
+# 投稿前不需要的二进制（reviewer 看 PNG 够用）
+*.svg
+*.gii
+*.gii.gz
+
+# 大体素特征字典（连接矩阵）/ 可由 1_predict_inhouse_BNA.ipynb 重建
+data/inhouse_BNA/X.dict.pkl
+data/inhouse_BNA/y.dict.pkl
+
+# 旧命名 results/（DTI / emotion / reward），新版以 data/inhouse_BNA/*.df.pkl 取代
+results/gii_by_label/
+results/nii_by_label/
+results/nii/
+results/all_prediction.pickle
