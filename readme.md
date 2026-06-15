@@ -43,8 +43,3 @@ Two pip-tools environments cover the whole project:
 - `vmpfc_nsplus_requirements.{in,txt}` — pinned environment for Neurosynth-plus / NiMARE meta-analysis (`1_MACM_Clustering/`). Kept separate because it pins older versions of `nimare`, `pyale`, and friends that conflict with the general stack.
 
 Install whichever environment matches the study you are running, e.g. `pip install -r vmpfc_general_requirements.txt`.
-
-## Auxiliary content
-
-- `plot_donghui_connectivity_predict_activation/` — standalone plotting scripts contributed for Study 3 (`5_Connectivity_Predict_Activation`), kept outside the main study tree because they were authored independently.
-- The legacy `readme.md` at the top of `external_projects/Project_VMPFC_Final/` lists the same study-to-directory mapping in Chinese and is kept for backward reference.

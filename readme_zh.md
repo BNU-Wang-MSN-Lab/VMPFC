@@ -43,8 +43,3 @@
 - `vmpfc_nsplus_requirements.{in,txt}`：Neurosynth-plus / NiMARE 元分析专用环境（`1_MACM_Clustering/`）。因其 `nimare`、`pyale` 等版本与通用栈互不兼容，单独维护。
 
 按需安装：`pip install -r vmpfc_general_requirements.txt`。
-
-## 辅助内容
-
-- `plot_donghui_connectivity_predict_activation/`：为 Study 3（`5_Connectivity_Predict_Activation`）独立贡献的绘图脚本集合，因来源独立而保留在主 study 树之外。
-- `external_projects/Project_VMPFC_Final/readme.md` 是历史遗留的中文索引文件，与本表一致，仅保留以备追溯。
